@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_INFORMATION TECHNOLOGY</name>
+   <tag></tag>
+   <elementGuidId>2f1ded4a-3fe2-4147-8ecb-c12e810fff88</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//li[@id='nav-menu-item-10538']/a)[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>1d51bc05-ed45-4908-a85e-4555f0ea9cee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu-link sub-menu-link</value>
+      <webElementGuid>fc60e491-e76a-45ba-903a-ddcde2081002</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/wconnect/CourseStatus.awp?&amp;Course=itservhome</value>
+      <webElementGuid>b8b3915a-670a-42a0-a8a6-62d46fbdc2e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Information Technology</value>
+      <webElementGuid>a35acc99-3f1a-40cf-b855-0a48f9c62373</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>INFORMATION TECHNOLOGY </value>
+      <webElementGuid>3b636a86-ff33-4352-ae0b-42f3a2396b0b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;nav-menu-item-10540&quot;)/ul[@class=&quot;dropdown-menu sub-menu menu-odd  menu-depth-1 services-width&quot;]/li[@id=&quot;nav-menu-item-10538&quot;]/a[@class=&quot;menu-link sub-menu-link&quot;]</value>
+      <webElementGuid>728bdacd-f709-42a4-9a3d-4987f95b34aa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//li[@id='nav-menu-item-10538']/a)[3]</value>
+      <webElementGuid>b5bbfc0e-6d38-4a79-ad4d-c365209d06de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'INFORMATION TECHNOLOGY')])[2]</value>
+      <webElementGuid>df1e09a1-d5cd-4ced-99aa-dd8a4168424e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CONFERENCE &amp; EVENT MANAGEMENT'])[2]/following::a[1]</value>
+      <webElementGuid>af2bddec-a8c7-4552-8f0c-e762e5fa7aed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CENTER FOR ENVIRONMENTAL EXCELLENCE'])[2]/following::a[2]</value>
+      <webElementGuid>41e51998-9653-4c58-9e0b-5c6025899703</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='WORKFORCE DEVELOPMENT'])[2]/preceding::a[1]</value>
+      <webElementGuid>b92587aa-2100-4b5a-af82-82c85b78c8e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CERTIFICATIONS'])[2]/preceding::a[2]</value>
+      <webElementGuid>08556a62-bd7a-43b0-9173-5de8873fc53e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/wconnect/CourseStatus.awp?&amp;Course=itservhome')])[2]</value>
+      <webElementGuid>59caf7b3-bfae-492d-b0cd-b8ed2b9459a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/ul/li[2]/ul/li[3]/a</value>
+      <webElementGuid>743f1c54-467b-4662-ac1f-d69167a59eeb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/wconnect/CourseStatus.awp?&amp;Course=itservhome' and (text() = 'INFORMATION TECHNOLOGY ' or . = 'INFORMATION TECHNOLOGY ')]</value>
+      <webElementGuid>faf5c78d-5c0e-474c-ba23-77228e48b895</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_CART_logo_normal notalone</name>
+   <tag></tag>
+   <elementGuidId>993df182-e012-47e5-94dd-12332e119f48</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main']/header/div/div/a/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.logo_normal.notalone</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>a5dfc22e-9f26-4875-86d1-c14822d37ac0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>logo_normal notalone</value>
+      <webElementGuid>76c16025-d7f9-4298-a948-65262da562d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/wconnect/ace/webart/B/uta-logo-blue.png</value>
+      <webElementGuid>9adc3e97-e855-4781-a21e-24ea91c6f1c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>UTA Logo</value>
+      <webElementGuid>f788ab80-b123-4497-9b79-85c315c721e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>UTA Logo</value>
+      <webElementGuid>81873ed0-2ca0-4b0f-9ddd-4e284ccaacf8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/header[@class=&quot;navbar navbar-default navbar-fixed-top style1  header-full-width light&quot;]/div[@class=&quot;nav-container&quot;]/div[@class=&quot;navbar-header gradient-header&quot;]/a[@class=&quot;navbar-brand nav-to&quot;]/img[@class=&quot;logo_normal notalone&quot;]</value>
+      <webElementGuid>57fc194c-00f6-4315-bca4-d3b8a0c0dfeb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main']/header/div/div/a/img</value>
+      <webElementGuid>b05db517-1779-4326-99c2-7cd2a62fefc6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>(//img[@alt='UTA Logo'])[2]</value>
+      <webElementGuid>3b2df760-3362-41d8-b7d8-1de22cd41b80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/img</value>
+      <webElementGuid>3cf302c8-9f8d-4314-a826-e2432835937f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/wconnect/ace/webart/B/uta-logo-blue.png' and @alt = 'UTA Logo' and @title = 'UTA Logo']</value>
+      <webElementGuid>6b3a5a5b-9f92-4f61-9621-239088b47d60</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

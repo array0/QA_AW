@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_(817) 272-2556</name>
+   <tag></tag>
+   <elementGuidId>9a1e7cbb-e107-4fae-a5a1-ad120fcb0f10</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='secondary_footer']/div[2]/div/p/a[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>feba6589-64fe-4191-965f-ab758279c170</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>footerfont</value>
+      <webElementGuid>24dd9bfe-3a5f-4f92-b637-c3a5fcf845c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>fax:817-272-2556</value>
+      <webElementGuid>85760c1a-10f2-41d4-80b9-04f744259612</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>fax (817) 272-2556</value>
+      <webElementGuid>c0b1696b-01fa-47d7-8fb9-ac5ae7fbb49f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>(817) 272-2556</value>
+      <webElementGuid>65e46023-7a25-48e7-bca4-eedcef1b2920</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;secondary_footer&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;center&quot;]/p[@class=&quot;footerfont&quot;]/a[@class=&quot;footerfont&quot;]</value>
+      <webElementGuid>7c6db85a-9a75-4938-92f0-84f41f046bf2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='secondary_footer']/div[2]/div/p/a[4]</value>
+      <webElementGuid>5909dfb0-ac69-4318-83fa-4a64d837ec3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'(817) 272-2556')]</value>
+      <webElementGuid>c06e2a37-72db-4717-b191-2463c939d31a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(817) 272-2581'])[1]/following::a[2]</value>
+      <webElementGuid>3bd130e3-da41-4081-8b3a-7400462b2a61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DIVISION FOR ENTERPRISE DEVELOPMENT'])[1]/following::a[4]</value>
+      <webElementGuid>87adb9bc-2ae7-4797-9571-f5556fa48ec8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CEDQUESTIONS@UTA.EDU'])[1]/preceding::a[1]</value>
+      <webElementGuid>3dc6a209-5436-4b07-8e80-3b966f0d0d8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Legal &amp; Privacy'])[1]/preceding::a[3]</value>
+      <webElementGuid>0e20fa0e-409a-4943-a0d0-4f6bfcf63c65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='(817) 272-2556']/parent::*</value>
+      <webElementGuid>3cddbb43-6eea-4af4-8879-5209e655447b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'fax:817-272-2556')]</value>
+      <webElementGuid>c0236b04-53eb-44c7-89a5-d0ba0bef1f48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[4]</value>
+      <webElementGuid>6f9da4a8-cedb-4256-99c8-8ad5da2fb35f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'fax:817-272-2556' and (text() = '(817) 272-2556' or . = '(817) 272-2556')]</value>
+      <webElementGuid>444e3113-c20e-4ba0-b2aa-e9a85012372b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_ONLINE COURSES</name>
+   <tag></tag>
+   <elementGuidId>f028abed-5535-4418-b734-e310c5f6f5df</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='nav-menu-item-10650']/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.menu-link.main-menu-link.hover_selected</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>481a7add-4472-4be8-9339-b87969aecaa3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/wconnect/ace/online.aspx</value>
+      <webElementGuid>1f4409cb-323c-433e-81e5-20fe5dabc65d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu-link main-menu-link hover_selected</value>
+      <webElementGuid>b96f8324-4502-4691-9b41-1c96811a3f8d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Online Courses</value>
+      <webElementGuid>6583f37b-9adf-4915-b876-d985c7ed072b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ONLINE COURSES</value>
+      <webElementGuid>52c187d6-1fec-4c7f-a3ae-bc5189b581ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/header[@class=&quot;navbar navbar-default navbar-fixed-top style1  header-full-width light&quot;]/div[@class=&quot;nav-container&quot;]/div[@class=&quot;navbar-collapse collapse&quot;]/ul[@id=&quot;menu-main-menu-1&quot;]/li[@id=&quot;nav-menu-item-10650&quot;]/a[@class=&quot;menu-link main-menu-link hover_selected&quot;]</value>
+      <webElementGuid>6911890d-2dda-4d5c-b37e-0d0555933ce0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='nav-menu-item-10650']/a</value>
+      <webElementGuid>a27904bc-d9f7-400b-a3ac-b91ee874aef4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'ONLINE COURSES')])[2]</value>
+      <webElementGuid>35c2631f-4ee0-4556-a045-493fe293d6c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CERTIFICATIONS'])[2]/following::a[1]</value>
+      <webElementGuid>1cb997bc-3201-4168-8d60-9d477f832e5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='WORKFORCE DEVELOPMENT'])[2]/following::a[2]</value>
+      <webElementGuid>ee135e66-c07b-42f1-809b-74e52911ce48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CONTACT'])[2]/preceding::a[1]</value>
+      <webElementGuid>ebe55869-059f-40d6-920d-ce2e3d0f56f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='LOGIN'])[2]/preceding::a[2]</value>
+      <webElementGuid>3928228d-c6c7-4dd9-9402-0bb73edbadd3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/wconnect/ace/online.aspx')])[2]</value>
+      <webElementGuid>4c4098f5-3f0a-4ee2-8f33-ca2ffdb0adb3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/ul/li[4]/a</value>
+      <webElementGuid>fffafbf6-2f41-4d4b-a85c-6c2c72570308</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/wconnect/ace/online.aspx' and (text() = 'ONLINE COURSES' or . = 'ONLINE COURSES')]</value>
+      <webElementGuid>ff4178ad-3519-4c93-9eb8-bfefc6870bf4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
