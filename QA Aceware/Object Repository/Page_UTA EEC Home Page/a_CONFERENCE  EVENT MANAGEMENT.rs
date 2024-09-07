@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_CONFERENCE  EVENT MANAGEMENT</name>
+   <tag></tag>
+   <elementGuidId>ae7dc73e-1172-4cac-bbab-1cbd49593fab</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//li[@id='nav-menu-item-10538']/a)[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f27e79b5-2645-415c-8799-8c2e6435c9d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu-link sub-menu-link</value>
+      <webElementGuid>fee6530f-d1e4-49d5-8fae-285bedc86f3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/wconnect/ShowSchedule.awp?&amp;Mode=GROUP&amp;Group=confcn</value>
+      <webElementGuid>8663a501-2ef4-4cb2-b506-4ec4781d4036</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Conference &amp; Event Management</value>
+      <webElementGuid>e6ad3a02-7fc2-47be-9994-6e3fdbb6f1e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>CONFERENCE &amp; EVENT MANAGEMENT</value>
+      <webElementGuid>0578f2f7-5f38-4c02-a702-2af52c14766d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;nav-menu-item-10540&quot;)/ul[@class=&quot;dropdown-menu sub-menu menu-odd  menu-depth-1 services-width&quot;]/li[@id=&quot;nav-menu-item-10538&quot;]/a[@class=&quot;menu-link sub-menu-link&quot;]</value>
+      <webElementGuid>dabe332d-b7d8-4573-af83-2c7ba109fb3b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//li[@id='nav-menu-item-10538']/a)[2]</value>
+      <webElementGuid>c581b897-d4e3-494f-87a4-fb14976c24cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'CONFERENCE &amp; EVENT MANAGEMENT')])[2]</value>
+      <webElementGuid>1b72f14c-8022-44a1-9b7b-5374a8db1652</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CENTER FOR ENVIRONMENTAL EXCELLENCE'])[2]/following::a[1]</value>
+      <webElementGuid>f9d35b60-14ce-4757-8d1a-57dd9267d572</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SAFETY &amp; HEALTH'])[2]/following::a[3]</value>
+      <webElementGuid>07752715-dc61-4092-8a7b-e179ddadd2b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='INFORMATION TECHNOLOGY'])[2]/preceding::a[1]</value>
+      <webElementGuid>9c46f32c-d393-4a92-b15d-5b0ee1990e7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='WORKFORCE DEVELOPMENT'])[2]/preceding::a[2]</value>
+      <webElementGuid>d8349be0-f96a-424e-8cda-ad59d4ea8b73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/wconnect/ShowSchedule.awp?&amp;Mode=GROUP&amp;Group=confcn')]</value>
+      <webElementGuid>80f18e74-60ab-4820-8393-8aa69503b660</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/ul/li[2]/ul/li[2]/a</value>
+      <webElementGuid>8b2bdedf-f366-466c-a562-b25136a74711</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/wconnect/ShowSchedule.awp?&amp;Mode=GROUP&amp;Group=confcn' and (text() = 'CONFERENCE &amp; EVENT MANAGEMENT' or . = 'CONFERENCE &amp; EVENT MANAGEMENT')]</value>
+      <webElementGuid>153c241c-2682-4c25-96d8-3129b9d1c41d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

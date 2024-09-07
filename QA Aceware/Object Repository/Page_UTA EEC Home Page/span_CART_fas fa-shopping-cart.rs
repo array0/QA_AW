@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_CART_fas fa-shopping-cart</name>
+   <tag></tag>
+   <elementGuidId>7350ea78-9b00-4cb6-a0cb-b9047c38e580</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='awCartSummary']/a/div/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.fas.fa-shopping-cart</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>bc825a0e-1240-4e7d-9d63-21c4ff9d71bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fas fa-shopping-cart</value>
+      <webElementGuid>3b0d91fc-2307-43ac-aa45-6146735df328</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/header[@class=&quot;navbar navbar-default navbar-fixed-top style1  header-full-width light&quot;]/div[@class=&quot;nav-container&quot;]/div[@class=&quot;hazel_right_header_icons with-woocommerce-cart&quot;]/div[@class=&quot;hazel_dynamic_shopping_bag&quot;]/div[@id=&quot;awCartSummary&quot;]/a[1]/div[@class=&quot;hazel_little_shopping_bag&quot;]/div[@class=&quot;title&quot;]/span[@class=&quot;fas fa-shopping-cart&quot;]</value>
+      <webElementGuid>6d0fd920-064f-4640-90bd-b916ae3ee176</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='awCartSummary']/a/div/div/span</value>
+      <webElementGuid>19201647-f921-43ec-a951-3cd2664c64ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span</value>
+      <webElementGuid>4cba16c4-ff58-4b3f-81dd-3a5c364b6b63</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

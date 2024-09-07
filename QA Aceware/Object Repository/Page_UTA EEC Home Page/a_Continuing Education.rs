@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Continuing Education</name>
+   <tag></tag>
+   <elementGuidId>9d4c542d-3c38-42b7-ac61-78d17049f7e9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='nav-menu-item-10565']/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.menu-link.sub-menu-link.outsider.outsider</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>191da445-bf49-4ca6-bb4f-5ec6f84c8f95</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu-link sub-menu-link outsider outsider</value>
+      <webElementGuid>d5e3a487-416f-4b05-9d36-11cba38f8a84</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/wconnect/CourseStatus.awp?&amp;Course=cedhom</value>
+      <webElementGuid>523b7852-6a52-4fe1-af36-eeb8fe22fc4e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Continuing Education</value>
+      <webElementGuid>d727c14c-6368-4079-9438-769b67431792</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Continuing Education</value>
+      <webElementGuid>615df9d0-2e6f-4ac1-a068-34153049baa8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;nav-menu-item-10565&quot;)/a[@class=&quot;menu-link sub-menu-link outsider outsider&quot;]</value>
+      <webElementGuid>6567f6a8-0759-4b57-a6e0-e99e9394b2db</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='nav-menu-item-10565']/a</value>
+      <webElementGuid>21b2547c-c5de-4dce-abbb-ff14692f4afd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Continuing Education')])[2]</value>
+      <webElementGuid>2de7b6cd-4b17-4c77-96ab-250de6e9deb2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='LOGIN'])[1]/following::a[3]</value>
+      <webElementGuid>04c2e1a7-f7ec-4ba0-922d-7775d67cdcb3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CONTACT'])[1]/following::a[4]</value>
+      <webElementGuid>4f6bcbc7-abc4-458a-98b8-a3a031c63aa2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ENVIRONMENTAL'])[2]/preceding::a[1]</value>
+      <webElementGuid>359c0556-c0eb-4cf6-8e09-205b38cf234f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HEALTHCARE'])[2]/preceding::a[2]</value>
+      <webElementGuid>6f426c96-f6b0-4f01-89e0-a6cbdde1a26a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/wconnect/CourseStatus.awp?&amp;Course=cedhom')])[2]</value>
+      <webElementGuid>ef7322f6-1e54-4f88-b56c-64c78e2cd2b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/ul/li/ul/li/a</value>
+      <webElementGuid>6b78cc5a-3af6-43f0-a4c5-b3b42e447959</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/wconnect/CourseStatus.awp?&amp;Course=cedhom' and (text() = 'Continuing Education' or . = 'Continuing Education')]</value>
+      <webElementGuid>9d7ba2a8-a458-4081-a0c3-913daaf9ff66</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
