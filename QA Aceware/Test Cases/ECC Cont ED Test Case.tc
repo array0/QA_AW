@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test Cont ED button</description>
+   <name>ECC Cont ED Test Case</name>
+   <tag>CE</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>df47aea0-0a6c-4f36-bed6-e9b835f33059</testCaseGuid>
+</TestCaseEntity>

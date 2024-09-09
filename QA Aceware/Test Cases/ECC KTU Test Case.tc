@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test home button</description>
+   <name>ECC KTU Test Case</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>594ef1f2-87ca-4f63-bd7c-e29ec78f3b2b</testCaseGuid>
+</TestCaseEntity>

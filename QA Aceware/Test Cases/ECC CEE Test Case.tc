@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test CEE button</description>
+   <name>ECC CEE Test Case</name>
+   <tag>CEE</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>08528f3c-f030-4e26-a071-1f0230a40fbd</testCaseGuid>
+</TestCaseEntity>

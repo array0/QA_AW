@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test home button</description>
+   <name>ECC Login Test Case</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>23ce27db-9a59-4750-96cc-2f64ad8c6d0b</testCaseGuid>
+</TestCaseEntity>

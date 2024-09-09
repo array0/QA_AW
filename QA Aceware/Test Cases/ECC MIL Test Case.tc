@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test home button</description>
+   <name>ECC MIL Test Case</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6c825099-d991-4fbb-b253-026d32f8899a</testCaseGuid>
+</TestCaseEntity>

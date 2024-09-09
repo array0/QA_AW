@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test Conference button</description>
+   <name>ECC CONF Test Case</name>
+   <tag>CONF</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e9214d10-3c5c-4e25-b0a0-b5bdc2cc4462</testCaseGuid>
+</TestCaseEntity>

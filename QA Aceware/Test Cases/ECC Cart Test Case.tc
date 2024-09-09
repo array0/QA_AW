@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test cart button</description>
+   <name>ECC Cart Test Case</name>
+   <tag>cart</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e70b8505-f002-4c6f-a065-80583fb958ff</testCaseGuid>
+</TestCaseEntity>

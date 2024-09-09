@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test Certifications button</description>
+   <name>ECC Certifications Test Case</name>
+   <tag>Certifications</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d26e7434-1514-45f4-ad84-621332a191ed</testCaseGuid>
+</TestCaseEntity>
