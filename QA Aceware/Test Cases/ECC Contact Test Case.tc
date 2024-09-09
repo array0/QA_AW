@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test Contact button</description>
+   <name>ECC Contact Test Case</name>
+   <tag>Contact</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>252a9802-482b-4295-a891-d4584a0235a5</testCaseGuid>
+</TestCaseEntity>
