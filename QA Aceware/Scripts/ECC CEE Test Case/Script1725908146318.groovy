@@ -23,9 +23,7 @@ WebUI.maximizeWindow()
 
 WebUI.mouseOver(findTestObject('Page_UTA EEC Home Page/a_SERVICES'))
 
-WebUI.mouseOver(findTestObject('Page_UTA EEC Home Page/a_CENTER FOR ENVIRONMENTAL EXCELLENCE'))
-
-WebUI.click(findTestObject('Page_UTA EEC Home Page/a_CENTER FOR ENVIRONMENTAL EXCELLENCE'))
+WebUI.enhancedClick(findTestObject('Page_UTA EEC Home Page/a_CENTER FOR ENVIRONMENTAL EXCELLENCE'))
 
 WebUI.closeBrowser()
 

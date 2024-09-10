@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_1_2_3</name>
+   <tag></tag>
+   <elementGuidId>d76bf3bf-bd6e-4113-9516-941ac896e445</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main']/div/div/div[5]/div/figure/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>fc6cf67c-f982-4ca3-b318-649cd97fa6a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://e.issuu.com/embed.html?d=2024_sh_fall_catalog_-_spanish_-_web&amp;hideIssuuLogo=true&amp;showOtherPublicationsAsSuggestions=true&amp;u=uta_continuing_education</value>
+      <webElementGuid>4d6e6379-d0c9-407b-a2c1-85b1121c5d2e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>S&amp;H Spanish Catalog 2024</value>
+      <webElementGuid>cc9ae1ff-82df-4103-830d-6cfb8ae95379</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[1]/div[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-12 col-md-4 col-lg-4 text-center&quot;]/figure[1]/a[1]</value>
+      <webElementGuid>04afbd2b-a97a-408d-9581-461a73ec249c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main']/div/div/div[5]/div/figure/a</value>
+      <webElementGuid>1cb10646-755d-4817-a414-8bc986320f3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Download PDF'])[6]/following::a[1]</value>
+      <webElementGuid>7737b93e-3e6a-4cec-b135-da6dc3a97a4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Website'])[6]/following::a[2]</value>
+      <webElementGuid>28a91b1d-4d43-4668-90cb-542ff7fea9b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Website'])[7]/preceding::a[1]</value>
+      <webElementGuid>d266a299-8150-4cd1-b34c-4bb0840d2f78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://e.issuu.com/embed.html?d=2024_sh_fall_catalog_-_spanish_-_web&amp;hideIssuuLogo=true&amp;showOtherPublicationsAsSuggestions=true&amp;u=uta_continuing_education')]</value>
+      <webElementGuid>103beaef-54ed-4d15-b23a-de8b8218c43e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/figure/a</value>
+      <webElementGuid>f6acdf05-02ab-44b7-9d4f-7364ba8bb3e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://e.issuu.com/embed.html?d=2024_sh_fall_catalog_-_spanish_-_web&amp;hideIssuuLogo=true&amp;showOtherPublicationsAsSuggestions=true&amp;u=uta_continuing_education']</value>
+      <webElementGuid>9ec74415-fd9c-47f4-83d5-7cd23a0e8c99</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_1</name>
+   <tag></tag>
+   <elementGuidId>600230b9-5933-4355-9b81-d04c187033b0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main']/div/div/div[4]/div/figure/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>c109829b-a21c-4faa-ae6d-62e436efa10f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://e.issuu.com/embed.html?d=ce_professional_development_catalog_2023_-_web&amp;hideIssuuLogo=true&amp;showOtherPublicationsAsSuggestions=true&amp;u=uta_continuing_education</value>
+      <webElementGuid>e7fdb792-1151-4167-a67c-dd5ca4cf27f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>ae271647-18fb-4b48-97b8-ec76a48dfdd7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Professional CE Catalog 2023</value>
+      <webElementGuid>e9556a6a-6f63-413a-be5b-d447be768ba7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[1]/div[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-12 col-md-4 col-lg-4 text-center&quot;]/figure[1]/a[1]</value>
+      <webElementGuid>eed87cf8-fe96-42b1-977c-52e4b0803a0f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main']/div/div/div[4]/div/figure/a</value>
+      <webElementGuid>4ce16f71-1957-4b64-bbf9-4453df443b99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Download PDF'])[3]/following::a[1]</value>
+      <webElementGuid>061bd799-de5f-403f-a051-8047cf9bd61e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Website'])[3]/following::a[2]</value>
+      <webElementGuid>08c3081e-ade9-4449-92a3-0f89e70b25ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Website'])[4]/preceding::a[1]</value>
+      <webElementGuid>1fb5d145-7485-41cc-9e98-0b04f62c6292</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://e.issuu.com/embed.html?d=ce_professional_development_catalog_2023_-_web&amp;hideIssuuLogo=true&amp;showOtherPublicationsAsSuggestions=true&amp;u=uta_continuing_education')]</value>
+      <webElementGuid>48a47929-7335-4d70-8b7e-101f7049b94b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/figure/a</value>
+      <webElementGuid>56b06276-e5b0-4d11-9b4b-f720c1dae80f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://e.issuu.com/embed.html?d=ce_professional_development_catalog_2023_-_web&amp;hideIssuuLogo=true&amp;showOtherPublicationsAsSuggestions=true&amp;u=uta_continuing_education']</value>
+      <webElementGuid>5414dbd1-28ad-4a74-976f-286fd2caabee</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

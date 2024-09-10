@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a</name>
+   <tag></tag>
+   <elementGuidId>9179735a-25b4-455b-adc0-0390a1aaf805</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>figure > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main']/div/div/div[3]/div/figure/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>0dbbf615-acf4-4a94-8784-633f6bb2b744</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://e.issuu.com/embed.html?d=binder1&amp;hideIssuuLogo=true&amp;showOtherPublicationsAsSuggestions=true&amp;u=uta_continuing_education</value>
+      <webElementGuid>f3428e9d-944b-460c-81af-98cc281f27c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>120dc11c-d5da-4ece-8607-96abdfed3449</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Continuing Education Catalog</value>
+      <webElementGuid>0a2345c7-9c31-4fa3-949a-a0103465ca2c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[1]/div[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-12 col-md-4 col-lg-4 text-center&quot;]/figure[1]/a[1]</value>
+      <webElementGuid>4f10d51b-49b4-452e-8dbb-ded7e0cec7f2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main']/div/div/div[3]/div/figure/a</value>
+      <webElementGuid>dab3b9dd-391d-4902-a561-df8ecc578b80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Catalogs'])[1]/following::a[1]</value>
+      <webElementGuid>64c07aae-1e67-4a06-b594-0ac73b4ec4de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='LOGIN'])[4]/following::a[1]</value>
+      <webElementGuid>6beddbd2-5545-419a-9c9e-467ebe39ea11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Website'])[1]/preceding::a[1]</value>
+      <webElementGuid>f955952e-e5b2-499d-870a-862643b9985c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://e.issuu.com/embed.html?d=binder1&amp;hideIssuuLogo=true&amp;showOtherPublicationsAsSuggestions=true&amp;u=uta_continuing_education')]</value>
+      <webElementGuid>c7729d36-f500-47a6-9f1a-cc5dbaa499ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//figure/a</value>
+      <webElementGuid>fe123491-21b8-45d1-837c-629a2525be83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://e.issuu.com/embed.html?d=binder1&amp;hideIssuuLogo=true&amp;showOtherPublicationsAsSuggestions=true&amp;u=uta_continuing_education']</value>
+      <webElementGuid>78daa0d5-d33b-462a-a4ff-edc86b550752</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
