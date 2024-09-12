@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_1_2</name>
+   <tag></tag>
+   <elementGuidId>5a0c4973-0797-405e-87db-f94ff02147d1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main']/div/div/div[4]/div[3]/figure/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>27de0ff7-c261-496f-9dd3-5fe4515e98a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://e.issuu.com/embed.html?d=fall_hci_catalog_2023&amp;hideIssuuLogo=true&amp;showOtherPublicationsAsSuggestions=true&amp;u=uta_continuing_education</value>
+      <webElementGuid>51445b7e-1be3-4944-a40e-119e27669f17</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>6dcfc1c4-2516-4fc7-b303-e30eae6ff87b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>HCI Catalog</value>
+      <webElementGuid>51495ba7-2075-4adc-8ebc-177a4e0447ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[1]/div[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-12 col-md-4 col-lg-4 text-center&quot;]/figure[1]/a[1]</value>
+      <webElementGuid>23795da1-d32c-4499-be63-baf30e6198a5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main']/div/div/div[4]/div[3]/figure/a</value>
+      <webElementGuid>29d09c97-9034-4a3e-b794-48eea667dc7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Download PDF'])[5]/following::a[1]</value>
+      <webElementGuid>0243c1bf-ac1a-4b7c-8e45-c72020fbfa5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Website'])[5]/following::a[2]</value>
+      <webElementGuid>b82182f8-cee3-4486-8cee-b0c4aca59060</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Website'])[6]/preceding::a[1]</value>
+      <webElementGuid>40067867-b6d7-4065-aac0-c0641802e200</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://e.issuu.com/embed.html?d=fall_hci_catalog_2023&amp;hideIssuuLogo=true&amp;showOtherPublicationsAsSuggestions=true&amp;u=uta_continuing_education')]</value>
+      <webElementGuid>a2f2f059-1788-4687-adaf-57c362ff031e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[3]/figure/a</value>
+      <webElementGuid>8d38f30d-7af4-4cec-b1ee-7066ac4c16be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://e.issuu.com/embed.html?d=fall_hci_catalog_2023&amp;hideIssuuLogo=true&amp;showOtherPublicationsAsSuggestions=true&amp;u=uta_continuing_education']</value>
+      <webElementGuid>01f553c5-4014-4188-9d66-48889510d8c5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

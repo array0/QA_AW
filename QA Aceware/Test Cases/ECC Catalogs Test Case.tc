@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ECC Catalogs Test Case</name>
+   <tag>catalogs</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>47e94087-2126-427f-9c82-f11a034ab095</testCaseGuid>
+</TestCaseEntity>
