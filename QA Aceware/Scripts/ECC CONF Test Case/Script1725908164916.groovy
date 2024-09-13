@@ -25,7 +25,7 @@ WebUI.mouseOver(findTestObject('Page_UTA EEC Home Page/a_SERVICES'))
 
 WebUI.mouseOver(findTestObject('Page_UTA EEC Home Page/a_CONFERENCE  EVENT MANAGEMENT'))
 
-WebUI.click(findTestObject('Page_UTA EEC Home Page/a_CONFERENCE  EVENT MANAGEMENT'))
+WebUI.enhancedClick(findTestObject('Page_UTA EEC Home Page/a_CONFERENCE  EVENT MANAGEMENT'))
 
 WebUI.closeBrowser()
 
