@@ -23,8 +23,9 @@ WebUI.maximizeWindow()
 
 WebUI.mouseOver(findTestObject('Object Repository/Page_UTA EEC Home Page/a_COURSES'))
 
-WebUI.mouseOver(findTestObject('Page_UTA EEC Home Page/a_Continuing Education'))
+WebUI.mouseOver(findTestObject('Page_UTA EEC Home Page/a_Continuing Education'), FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Page_UTA EEC Home Page/a_Continuing Education'))
+WebUI.enhancedClick(findTestObject('Page_UTA EEC Home Page/a_Continuing Education'))
 
 WebUI.closeBrowser()
+

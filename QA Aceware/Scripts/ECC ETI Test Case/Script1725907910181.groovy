@@ -25,7 +25,7 @@ WebUI.mouseOver(findTestObject('Object Repository/Page_UTA EEC Home Page/a_COURS
 
 WebUI.mouseOver(findTestObject('Page_UTA EEC Home Page/a_ENVIRONMENTAL'))
 
-WebUI.click(findTestObject('Page_UTA EEC Home Page/a_ENVIRONMENTAL'))
+WebUI.enhancedClick(findTestObject('Page_UTA EEC Home Page/a_ENVIRONMENTAL'))
 
 WebUI.closeBrowser()
 
