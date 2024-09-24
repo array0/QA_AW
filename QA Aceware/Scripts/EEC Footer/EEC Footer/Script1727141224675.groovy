@@ -19,13 +19,27 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('https://web-ded.uta.edu/wconnect/ace/index.aspx')
 
+StatusResponse = WS.sendRequestAndVerify(findTestObject('Page_UTA EEC Home Page/200 Home page'))
+
 WebUI.maximizeWindow()
 
-WebUI.mouseOver(findTestObject('Page_UTA EEC Home Page/a_SERVICES'))
+WebUI.verifyElementPresent(findTestObject('UTA EEC Footer/a_(817) 272-2556'), 0)
 
-WebUI.mouseOver(findTestObject('Page_UTA EEC Home Page/a_CONFERENCE  EVENT MANAGEMENT'))
+WebUI.verifyElementPresent(findTestObject('UTA EEC Footer/a_(817) 272-2581'), 0)
 
-WebUI.click(findTestObject('Page_UTA EEC Home Page/a_CONFERENCE  EVENT MANAGEMENT'))
+WebUI.verifyElementPresent(findTestObject('UTA EEC Footer/a_1-866-906-9190'), 0)
+
+WebUI.verifyElementPresent(findTestObject('UTA EEC Footer/a_140 W. MITCHELLARLINGTON, TX 76010'), 0)
+
+WebUI.verifyElementPresent(findTestObject('UTA EEC Footer/a_2024 UNIVERSITY OF TEXAS ARLINGTON'), 0)
+
+WebUI.verifyElementPresent(findTestObject('UTA EEC Footer/a_CEDQUESTIONSUTA.EDU'), 0)
+
+WebUI.verifyElementPresent(findTestObject('UTA EEC Footer/a_Legal  Privacy'), 0)
+
+WebUI.verifyElementPresent(findTestObject('UTA EEC Footer/a_Site Policies'), 0)
+
+WebUI.verifyElementPresent(findTestObject('UTA EEC Footer/img Footer UTA logo'), 0)
 
 WebUI.closeBrowser()
 

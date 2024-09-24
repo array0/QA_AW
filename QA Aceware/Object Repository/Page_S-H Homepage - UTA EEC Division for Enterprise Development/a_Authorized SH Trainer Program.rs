@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Authorized SH Trainer Program</name>
+   <tag></tag>
+   <elementGuidId>16e6531e-f28d-4e4e-8ccb-b17216d209a2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p:nth-of-type(7) > a.btn.btn-lg.btn-block.btn-primary</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='wrapper']/div/div/div[4]/div/article/p[7]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f85b1559-42df-4a53-ba43-1f97842aafb5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/wconnect/ShowSchedule.awp1?&amp;Mode=GROUP&amp;Group=ASHT</value>
+      <webElementGuid>c38f5d86-9a59-4d52-a439-2c698e16fc29</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>d38cf422-f2fb-47a4-b50e-2cb2505a3e94</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-lg btn-block btn-primary</value>
+      <webElementGuid>0e98a686-0816-4338-89e1-5424e3af9b76</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>ac51c357-896f-4571-b51d-e973512e86f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Authorized S&amp;H Trainer Program</value>
+      <webElementGuid>914ac180-83bf-48f6-a272-b9a7866150b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Authorized S&amp;H Trainer Program</value>
+      <webElementGuid>f176825f-cb46-4082-a53e-d78de87a4bb9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wrapper&quot;)/div[1]/div[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-6 col-md-12 col-sm-12 col-xs-12&quot;]/article[@class=&quot;smArticles&quot;]/p[7]/a[@class=&quot;btn btn-lg btn-block btn-primary&quot;]</value>
+      <webElementGuid>370e9bcb-74f1-4786-8d46-9aac41826fdd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wrapper']/div/div/div[4]/div/article/p[7]/a</value>
+      <webElementGuid>91a96591-dede-4da6-8c6c-6e72c0419f95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Authorized S&amp;H Trainer Program')]</value>
+      <webElementGuid>61da0713-584f-47c1-93f6-79b3090f9b95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Free Training'])[1]/following::a[1]</value>
+      <webElementGuid>7b3a3915-7d40-4eaa-a5d6-176bc489b2df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Spanish Classes'])[1]/following::a[2]</value>
+      <webElementGuid>f57da0e8-5cb0-4413-af52-12eedc95cb7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Digital Badging'])[1]/preceding::a[1]</value>
+      <webElementGuid>a75318d6-0169-4957-bafc-f3939607cf6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Order CFRs'])[1]/preceding::a[2]</value>
+      <webElementGuid>2ba70aa4-df7c-4430-a760-47bffb486fda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Authorized S&amp;H Trainer Program']/parent::*</value>
+      <webElementGuid>db81de94-94a6-4c15-9bfd-64f8fe369dfc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/wconnect/ShowSchedule.awp1?&amp;Mode=GROUP&amp;Group=ASHT')]</value>
+      <webElementGuid>3333acc9-8411-44af-a7f0-aee77ba26307</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[7]/a</value>
+      <webElementGuid>4b82e35a-df74-47c2-a745-12647caedf8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/wconnect/ShowSchedule.awp1?&amp;Mode=GROUP&amp;Group=ASHT' and (text() = 'Authorized S&amp;H Trainer Program' or . = 'Authorized S&amp;H Trainer Program')]</value>
+      <webElementGuid>2c52aeaf-fb73-4144-a604-7afaf1183f00</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

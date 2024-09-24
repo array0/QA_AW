@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Digital Badging</name>
+   <tag></tag>
+   <elementGuidId>3b31173e-60f9-416f-b657-c0271ab166bd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p:nth-of-type(8) > a.btn.btn-lg.btn-block.btn-primary</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='wrapper']/div/div/div[4]/div/article/p[8]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a15df32b-3f15-4677-9a2c-369cfa0a7218</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/wconnect/ShowSchedule.awp?&amp;Mode=GROUP&amp;Group=CERDB</value>
+      <webElementGuid>6ef77257-2330-42d0-95f3-f10869f7cd76</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>ef21c07a-454b-42a3-a100-2920f9f202e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-lg btn-block btn-primary</value>
+      <webElementGuid>7c9a0cce-04e8-4605-bba1-2f3e4cb908e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>9b67a52a-8e57-4650-a0df-36897a10b835</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Digital Badging</value>
+      <webElementGuid>172b2c81-ec9d-4d71-a244-9b889288a4ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Digital Badging</value>
+      <webElementGuid>2fd745db-023b-4ed0-8227-f74a453e065b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wrapper&quot;)/div[1]/div[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-6 col-md-12 col-sm-12 col-xs-12&quot;]/article[@class=&quot;smArticles&quot;]/p[8]/a[@class=&quot;btn btn-lg btn-block btn-primary&quot;]</value>
+      <webElementGuid>c53127d4-7bd9-4b9e-a895-ec36d0ab2b8c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wrapper']/div/div/div[4]/div/article/p[8]/a</value>
+      <webElementGuid>aab367c3-a520-464a-aa06-56985228a84f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Digital Badging')]</value>
+      <webElementGuid>6063793e-5683-46e7-89b8-0033ce0bceb6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Authorized S&amp;H Trainer Program'])[1]/following::a[1]</value>
+      <webElementGuid>10bdb0a3-317b-404c-a70f-eb37eb5515a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Free Training'])[1]/following::a[2]</value>
+      <webElementGuid>0de472d1-16d9-4e52-9044-ff6a8dc43de3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Order CFRs'])[1]/preceding::a[1]</value>
+      <webElementGuid>3f15e249-bd3a-4319-a3b6-2f4a6a45b67f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='English'])[1]/preceding::a[3]</value>
+      <webElementGuid>ce3d465b-a0f4-4dee-bdb5-a55d3e988459</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Digital Badging']/parent::*</value>
+      <webElementGuid>3fabae99-4268-4c86-8c7b-78f7fbda912b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/wconnect/ShowSchedule.awp?&amp;Mode=GROUP&amp;Group=CERDB')]</value>
+      <webElementGuid>851031bc-e60b-4e48-acbf-ad0ed663382a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[8]/a</value>
+      <webElementGuid>06e4bf77-b129-4be8-9786-51f2f6876fb4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/wconnect/ShowSchedule.awp?&amp;Mode=GROUP&amp;Group=CERDB' and (text() = 'Digital Badging' or . = 'Digital Badging')]</value>
+      <webElementGuid>251e5372-4658-4f85-87aa-84dd5bd2556c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

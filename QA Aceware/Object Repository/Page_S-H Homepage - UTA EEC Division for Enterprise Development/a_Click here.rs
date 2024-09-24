@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Click here</name>
+   <tag></tag>
+   <elementGuidId>760b7887-66cb-4a6e-a29a-cfac957a6a7b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>strong > a.shlink</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='wrapper']/div/div/div[6]/div/article/strong/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>6383617b-ba05-4fe9-a968-247749c2a087</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>shlink</value>
+      <webElementGuid>0ea67145-163b-417b-8b07-122a06207ac4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/wconnect/CourseStatus.awp1?&amp;course=eticor</value>
+      <webElementGuid>9fa22a50-fe40-4dd9-80e8-fd6fb09554e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>874533c5-3aaa-44ea-8afe-f8a2f586ad75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Click here</value>
+      <webElementGuid>96a790ab-b031-4bfa-adb6-77e02bf1efba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Click here</value>
+      <webElementGuid>b3f9ded7-adf9-475a-bcdb-941fe066dd93</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wrapper&quot;)/div[1]/div[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12&quot;]/article[@class=&quot;smArticles&quot;]/strong[1]/a[@class=&quot;shlink&quot;]</value>
+      <webElementGuid>a3aecccd-168d-436c-8519-2d2894f3b952</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wrapper']/div/div/div[6]/div/article/strong/a</value>
+      <webElementGuid>ad7bc4ba-9059-46e7-b940-e75e02c51a87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Click here')]</value>
+      <webElementGuid>f35828ea-9f3b-4181-84b4-edc46a98bd8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='San Antonio, TX'])[1]/following::a[1]</value>
+      <webElementGuid>e1e0d141-63fd-4b66-a00d-1c315f894415</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='UPDATES'])[1]/preceding::a[1]</value>
+      <webElementGuid>af1de12c-6d92-4396-8f91-05251ac0a477</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Focus Four - Health: High Temperatures'])[1]/preceding::a[1]</value>
+      <webElementGuid>d6360a39-33cb-40dc-8cbe-adba07188b29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Click here']/parent::*</value>
+      <webElementGuid>20e34d47-100c-434b-a015-b9e1bb1ed630</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/wconnect/CourseStatus.awp1?&amp;course=eticor')])[2]</value>
+      <webElementGuid>6e5c5dbe-65ae-4eb3-8196-a033e89f23bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//strong/a</value>
+      <webElementGuid>03fc39a7-6e57-4df2-bd2d-3577f87a547e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/wconnect/CourseStatus.awp1?&amp;course=eticor' and (text() = 'Click here' or . = 'Click here')]</value>
+      <webElementGuid>44875531-dd9a-4463-802d-176a3380e3b4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

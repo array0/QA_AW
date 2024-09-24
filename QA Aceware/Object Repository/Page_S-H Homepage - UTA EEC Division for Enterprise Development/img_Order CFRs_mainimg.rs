@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>img_Download PDF_cat-img_1_2</name>
+   <name>img_Order CFRs_mainimg</name>
    <tag></tag>
-   <elementGuidId>10246ab1-1aa4-4a91-ab7c-e25f0bced18a</elementGuidId>
+   <elementGuidId>78a0688f-d312-42ca-8cfb-0e2e886b902a</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>25df32ea-981a-4981-8d0e-f6d97d8162a0</webElementGuid>
+      <webElementGuid>c8931214-1514-4710-9c45-48a162b3769a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>mainimg</value>
-      <webElementGuid>8190b412-5b51-4f46-a943-aada3a88a206</webElementGuid>
+      <webElementGuid>f43bc870-b9ba-40d7-a661-d5bb8c0afe42</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,39 +39,7 @@
       <name>src</name>
       <type>Main</type>
       <value>/cedwebfiles/catalogs/2024/2024 SH Fall Catalog_Thumnail.jpg</value>
-      <webElementGuid>f3a678e6-3002-496c-8b8a-de51d6cca92c</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>alt</name>
-      <type>Main</type>
-      <value>Safety &amp; Health English Catalog cover</value>
-      <webElementGuid>eebda270-f57b-43f0-87a2-fa9bbb03fed5</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>width</name>
-      <type>Main</type>
-      <value>250</value>
-      <webElementGuid>ed7f4f2a-9787-4abc-8267-c362d3262215</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>height</name>
-      <type>Main</type>
-      <value>250</value>
-      <webElementGuid>584a07b2-11c7-47de-bb73-8a7adaca540e</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath</name>
-      <type>Main</type>
-      <value>id(&quot;wrapper&quot;)/div[1]/div[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-6 col-md-12 col-sm-12 col-xs-12&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-6 col-md-6 col-sm-6 col-xs-12 text-center&quot;]/article[1]/a[1]/img[@class=&quot;mainimg&quot;]</value>
-      <webElementGuid>a75637bf-7975-44c5-95f6-4bb56c35b26a</webElementGuid>
+      <webElementGuid>92b35fc9-d3a8-494f-b2ed-2e3f719fb1cd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -79,7 +47,39 @@
       <name>loading</name>
       <type>Main</type>
       <value>lazy</value>
-      <webElementGuid>30173c03-e8b7-4c42-a04d-847c0db45c97</webElementGuid>
+      <webElementGuid>3bf6a0f7-4244-4175-8669-26e3349b218b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Safety &amp; Health English Catalog cover</value>
+      <webElementGuid>4b260263-8da7-494d-b5fa-4b2160f6df19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>250</value>
+      <webElementGuid>f168611e-c5f6-4308-bba1-4af1a8d9fbd5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>250</value>
+      <webElementGuid>1e2b281a-1b37-403c-a68c-bbfd47220ddd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wrapper&quot;)/div[1]/div[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-6 col-md-12 col-sm-12 col-xs-12&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-6 col-md-6 col-sm-6 col-xs-12 text-center&quot;]/article[1]/a[1]/img[@class=&quot;mainimg&quot;]</value>
+      <webElementGuid>19edeeea-03e8-472a-8971-a3957931073d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='wrapper']/div/div/div[4]/div[2]/div/div/article/a/img</value>
-      <webElementGuid>41b7196e-b362-4ce7-be7e-9fd86136b3ad</webElementGuid>
+      <webElementGuid>1c40e2c6-5908-4cc2-a3da-c7e6cb484692</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:img</name>
       <type>Main</type>
       <value>//img[@alt='Safety &amp; Health English Catalog cover']</value>
-      <webElementGuid>da4bce9c-5150-4f44-aea4-0b95c2cb41d3</webElementGuid>
+      <webElementGuid>83b9a5b2-009a-4b46-9dc0-ffd7501668a7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//article/a/img</value>
-      <webElementGuid>1836b231-204d-4b29-aa10-3d418ceb3046</webElementGuid>
+      <webElementGuid>1ff5ee61-a9cf-42db-8867-1c09d0059341</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,38 +111,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@src = '/cedwebfiles/catalogs/2024/2024 SH Fall Catalog_Thumnail.jpg' and @alt = 'Safety &amp; Health English Catalog cover']</value>
-      <webElementGuid>fe452cae-9e1f-4b9f-8a98-0ab2bf209824</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
-      <type>Main</type>
-      <value>//div[@id='main']/div/div/div[3]/div[2]/figure/a/img</value>
-      <webElementGuid>f5124d65-f754-4b27-bf8a-491dcc1e2d9b</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:img</name>
-      <type>Main</type>
-      <value>//img[@alt='Safety &amp; Health Catalog 2024 Cover']</value>
-      <webElementGuid>95779e40-1dbb-4bfd-ba3d-d08bccb7eaf7</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//div[2]/figure/a/img</value>
-      <webElementGuid>79607abd-cd06-4c6f-abef-909c7e354396</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//img[@src = '/cedwebfiles/catalogs/2024/2024 SH Fall Catalog_Thumnail.jpg' and @alt = 'Safety &amp; Health Catalog 2024 Cover']</value>
-      <webElementGuid>9044a9e6-1bcf-4ac6-b14c-ecb6f3048dbc</webElementGuid>
+      <webElementGuid>36b224ae-db10-4ace-9706-c4a1e7a2d4c2</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

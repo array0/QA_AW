@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Sign up for Updates</name>
+   <tag></tag>
+   <elementGuidId>be798f25-6f6c-49b8-89bd-665850fd3404</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h2</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='wrapper']/div/div/div[4]/div[2]/article/a/h2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>c48be7d5-6fae-4b36-8e6f-14d1ba7619e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign up for Updates!</value>
+      <webElementGuid>8f1ae351-ed8c-469f-9215-85e9c6efc248</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wrapper&quot;)/div[1]/div[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-6 col-md-12 col-sm-12 col-xs-12&quot;]/article[1]/a[@class=&quot;shlink&quot;]/h2[1]</value>
+      <webElementGuid>73ba69cc-43ac-4b13-8aac-b9ea0ac4652d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wrapper']/div/div/div[4]/div[2]/article/a/h2</value>
+      <webElementGuid>876063b0-9379-4dae-bfce-f6f70fb704c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Spanish'])[1]/following::h2[1]</value>
+      <webElementGuid>adda7984-60c4-4922-bc00-38627a31da56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CERTIFICATION PROGRAMS'])[1]/preceding::h2[1]</value>
+      <webElementGuid>cc820a98-9dee-47ef-93a3-903e75aabfd4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='UPCOMING CLASSES'])[1]/preceding::h2[1]</value>
+      <webElementGuid>457b6349-9129-41bc-a6e8-a91cb283902b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Sign up for Updates!']/parent::*</value>
+      <webElementGuid>1b9543dd-9999-4581-ad6a-ed874f27747f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2</value>
+      <webElementGuid>e8c96980-47f3-4f4b-9a7a-c7cf5c127fa0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'Sign up for Updates!' or . = 'Sign up for Updates!')]</value>
+      <webElementGuid>a18aa1c9-16f5-4591-b5b7-48bf10efb7f4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

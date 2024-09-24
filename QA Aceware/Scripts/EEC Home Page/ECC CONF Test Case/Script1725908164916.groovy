@@ -17,14 +17,15 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('https://web-ded.uta.edu/')
-
-StatusResponse = WS.sendRequestAndVerify(findTestObject('Page_UTA EEC Home Page/200 Home page'))
+WebUI.openBrowser('https://web-ded.uta.edu/wconnect/ace/index.aspx')
 
 WebUI.maximizeWindow()
 
-WebUI.mouseOver(findTestObject('Page_UTA EEC Home Page/a_CERTIFICATIONS'))
+WebUI.mouseOver(findTestObject('Page_UTA EEC Home Page/a_SERVICES'))
 
-WebUI.click(findTestObject('Page_UTA EEC Home Page/a_CERTIFICATIONS'))
+WebUI.mouseOver(findTestObject('Page_UTA EEC Home Page/a_CONFERENCE  EVENT MANAGEMENT'))
+
+WebUI.enhancedClick(findTestObject('Page_UTA EEC Home Page/a_CONFERENCE  EVENT MANAGEMENT'))
 
 WebUI.closeBrowser()
+

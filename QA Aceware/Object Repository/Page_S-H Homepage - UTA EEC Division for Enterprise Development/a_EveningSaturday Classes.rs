@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_EveningSaturday Classes</name>
+   <tag></tag>
+   <elementGuidId>440641a8-8d27-4688-b937-37182b2e8cf8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p:nth-of-type(3) > a.btn.btn-lg.btn-block.btn-primary</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='wrapper']/div/div/div[4]/div/article/p[3]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>7cbac8ca-c401-4a8a-ab43-764e83b32d12</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/wconnect/ShowSchedule.awp1?&amp;Mode=GROUP&amp;Group=OSHANT</value>
+      <webElementGuid>9d61c91c-9138-4ce7-ae85-bb5a6fa69ab7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>4dfb881b-5342-4e8f-a126-f3c407da4077</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-lg btn-block btn-primary</value>
+      <webElementGuid>c72ac959-ea72-48a2-b457-fc8029a2bb82</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>37203066-a39c-4c1e-a377-d572de1afba2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Evening/Saturday Classes</value>
+      <webElementGuid>243b9feb-b5fe-4a4d-9086-8a7487a3f3b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Evening/Saturday Classes</value>
+      <webElementGuid>c7e46aef-fcf2-4973-9093-bd8f95f52afb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wrapper&quot;)/div[1]/div[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-6 col-md-12 col-sm-12 col-xs-12&quot;]/article[@class=&quot;smArticles&quot;]/p[3]/a[@class=&quot;btn btn-lg btn-block btn-primary&quot;]</value>
+      <webElementGuid>291e9066-b021-4a8e-a729-9eba3b1b8c8f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wrapper']/div/div/div[4]/div/article/p[3]/a</value>
+      <webElementGuid>23838394-bd02-4b51-a8d7-22b0558a0268</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Evening/Saturday Classes')]</value>
+      <webElementGuid>d5064671-5810-4ec1-8cc1-3a8525b81585</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Live Webcasts'])[1]/following::a[1]</value>
+      <webElementGuid>b9ccfdfe-9900-4244-b400-e17b5f3d0790</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Course Schedules'])[1]/following::a[2]</value>
+      <webElementGuid>87134c74-0861-41f0-bebb-8b343498c723</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Online Training'])[1]/preceding::a[1]</value>
+      <webElementGuid>94db5a29-c9b5-4d68-ab14-b2918aca689c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Spanish Classes'])[1]/preceding::a[2]</value>
+      <webElementGuid>56aff595-9f9a-4198-92ab-c5faab7b2532</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Evening/Saturday Classes']/parent::*</value>
+      <webElementGuid>d2c416b3-f9be-4380-a33b-bb572ced7cee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/wconnect/ShowSchedule.awp1?&amp;Mode=GROUP&amp;Group=OSHANT')]</value>
+      <webElementGuid>816c8b92-0dcd-4852-a5cc-d4b2195b11ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[3]/a</value>
+      <webElementGuid>24b84dc9-5878-4c06-9e04-bd101c2af403</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/wconnect/ShowSchedule.awp1?&amp;Mode=GROUP&amp;Group=OSHANT' and (text() = 'Evening/Saturday Classes' or . = 'Evening/Saturday Classes')]</value>
+      <webElementGuid>66614095-969a-448c-8c0e-b9ba5d9503bc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

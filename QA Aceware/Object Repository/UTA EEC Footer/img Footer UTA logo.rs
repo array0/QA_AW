@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img Footer UTA logo</name>
+   <tag></tag>
+   <elementGuidId>8492c2ad-c0fd-4a90-b860-57ad1a6254c4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img[alt=&quot;GSA Contract GS-10F-211BA logo&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='secondary_footer']/div[2]/div/p/a[6]/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>af6fbcab-55db-474c-bc84-6635612860ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/wconnect/ace/webart/b/GSA-Contract-GS-10F-211BA-logo.webp</value>
+      <webElementGuid>0f4d43aa-80be-4d44-b9c8-25946d42ebd3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>loading</name>
+      <type>Main</type>
+      <value>lazy</value>
+      <webElementGuid>e325e223-abdb-4a7d-9007-46d1e330093a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>GSA Contract GS-10F-211BA logo</value>
+      <webElementGuid>3b613212-ff40-40ed-acce-d505f74f8fd7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onerror</name>
+      <type>Main</type>
+      <value>if (this.src != '/wconnect/ace/webart/b/GSA-Contract-GS-10F-211BA-logo.png' &amp;&amp; this.attribute('src') != '/wconnect/ace/webart/b/GSA-Contract-GS-10F-211BA-logo.png') 
+	this.src = '/wconnect/ace/webart/b/GSA-Contract-GS-10F-211BA-logo.png';</value>
+      <webElementGuid>ae6e925d-0f97-440f-bd73-fe2c51c31222</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;secondary_footer&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;center&quot;]/p[@class=&quot;footerfont&quot;]/a[6]/img[1]</value>
+      <webElementGuid>ca9359ca-9503-4dac-9338-a063c1248d0e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='secondary_footer']/div[2]/div/p/a[6]/img</value>
+      <webElementGuid>2d46f601-08a6-4d12-8c63-a48457fc037e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='GSA Contract GS-10F-211BA logo']</value>
+      <webElementGuid>d0c5986c-5f61-405b-81de-e26c91e0dc19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[6]/img</value>
+      <webElementGuid>f770d170-0a77-411c-a7a8-643da5031bd2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/wconnect/ace/webart/b/GSA-Contract-GS-10F-211BA-logo.webp' and @alt = 'GSA Contract GS-10F-211BA logo']</value>
+      <webElementGuid>a633d5bb-8235-4079-a426-a0f7097b5ef1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

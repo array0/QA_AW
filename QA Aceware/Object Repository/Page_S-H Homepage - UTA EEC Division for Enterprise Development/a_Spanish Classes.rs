@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Spanish Classes</name>
+   <tag></tag>
+   <elementGuidId>e6252ef8-ffc1-4a5b-a726-fdf9f76d6990</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p:nth-of-type(5) > a.btn.btn-lg.btn-block.btn-primary</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='wrapper']/div/div/div[4]/div/article/p[5]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>0cc2121b-a73e-41bc-a4e9-1370b2553d4f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/wconnect/ShowSchedule.awp1?&amp;Mode=GROUP&amp;Group=OSHASP</value>
+      <webElementGuid>5ef8a7d9-a088-41fd-bd4c-b35222384fe1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>31e90a6b-7717-488b-ab81-b9389015f60c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-lg btn-block btn-primary</value>
+      <webElementGuid>23d0b113-517f-4fef-aaa1-a04bf9b9dc07</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>00a6e16d-c6c3-4eed-ae3c-3af644cd345d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Spanish Classes</value>
+      <webElementGuid>e8103261-704f-449c-a1de-88727cf7690c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Spanish Classes</value>
+      <webElementGuid>0130bbea-4070-4b06-a0b5-a19905ee05ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wrapper&quot;)/div[1]/div[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-6 col-md-12 col-sm-12 col-xs-12&quot;]/article[@class=&quot;smArticles&quot;]/p[5]/a[@class=&quot;btn btn-lg btn-block btn-primary&quot;]</value>
+      <webElementGuid>a77248e7-f18a-443c-92e2-777cb5079d95</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wrapper']/div/div/div[4]/div/article/p[5]/a</value>
+      <webElementGuid>130305f4-40de-46fd-85b0-ac16232afe4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Spanish Classes')]</value>
+      <webElementGuid>18366e72-92b3-4022-bfc9-015e96591f2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Online Training'])[1]/following::a[1]</value>
+      <webElementGuid>a8cf522b-b38c-4397-8c93-93dd5691976b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Evening/Saturday Classes'])[1]/following::a[2]</value>
+      <webElementGuid>2c1a03aa-9d7f-4b32-99ee-06e9bd51d4ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Free Training'])[1]/preceding::a[1]</value>
+      <webElementGuid>f2d3d507-b418-4c5f-a2b8-c2cab4f7c1ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Authorized S&amp;H Trainer Program'])[1]/preceding::a[2]</value>
+      <webElementGuid>dea4e2f1-e142-4318-8ace-341e6b21f470</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Spanish Classes']/parent::*</value>
+      <webElementGuid>0a064d8e-f599-4f2c-babd-644ef59b5b98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/wconnect/ShowSchedule.awp1?&amp;Mode=GROUP&amp;Group=OSHASP')]</value>
+      <webElementGuid>e9fc47d6-a48d-47fe-8073-e4a5f013aaa4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[5]/a</value>
+      <webElementGuid>3ab9e066-4fe6-448b-a07e-d7739d8fb296</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/wconnect/ShowSchedule.awp1?&amp;Mode=GROUP&amp;Group=OSHASP' and (text() = 'Spanish Classes' or . = 'Spanish Classes')]</value>
+      <webElementGuid>fad52246-0ed1-41b2-92e4-a1bcf7d1c71f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

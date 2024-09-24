@@ -25,7 +25,7 @@ WebUI.maximizeWindow()
 
 WebUI.mouseOver(findTestObject('Page_UTA EEC Home Page/span_CART_fas fa-shopping-cart'))
 
-WebUI.click(findTestObject('Page_UTA EEC Home Page/span_CART_fas fa-shopping-cart'))
+WebUI.enhancedClick(findTestObject('Page_UTA EEC Home Page/span_CART_fas fa-shopping-cart'))
 
 WebUI.closeBrowser()
 
