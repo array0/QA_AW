@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>img_Download PDF_cat-img_1_2_3_4_5</name>
+   <name>img_English_mainimg</name>
    <tag></tag>
-   <elementGuidId>90dffa31-4779-42c3-a415-06ce7efd0db9</elementGuidId>
+   <elementGuidId>3575c21f-e7eb-45a7-a522-4d75f915238a</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>685e507d-fdb3-49e4-8393-61d0eca0092a</webElementGuid>
+      <webElementGuid>175acf90-ac4a-44d6-8446-40df86c81087</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>mainimg</value>
-      <webElementGuid>9635a0d1-3221-4881-9176-f88e59f6aecf</webElementGuid>
+      <webElementGuid>1295e841-8fc1-4e5b-9b93-3a56948a39df</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,39 +39,7 @@
       <name>src</name>
       <type>Main</type>
       <value>/cedwebfiles/catalogs/2024/2024 SH Fall Catalog - Spanish - Thumbnail.jpg</value>
-      <webElementGuid>473145d6-0417-488c-be52-b324fc06c036</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>alt</name>
-      <type>Main</type>
-      <value>Safety &amp; Health Spanish Catalog cover</value>
-      <webElementGuid>0bb42ea2-e72c-4d6c-8826-06bfc02a8717</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>width</name>
-      <type>Main</type>
-      <value>250</value>
-      <webElementGuid>e0cc5c3d-d62e-4a8f-ac2d-b6f810180168</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>height</name>
-      <type>Main</type>
-      <value>250</value>
-      <webElementGuid>5f2c4514-8ac4-4f38-9f4b-75bc2addb529</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath</name>
-      <type>Main</type>
-      <value>id(&quot;wrapper&quot;)/div[1]/div[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-6 col-md-12 col-sm-12 col-xs-12&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-6 col-md-6 col-sm-6 col-xs-12 text-center&quot;]/article[1]/a[1]/img[@class=&quot;mainimg&quot;]</value>
-      <webElementGuid>9fdfbe99-d04d-423b-81d6-732043b2c021</webElementGuid>
+      <webElementGuid>ebe01282-5b9c-4bcc-a023-4cb07c46bab8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -79,7 +47,39 @@
       <name>loading</name>
       <type>Main</type>
       <value>lazy</value>
-      <webElementGuid>b389beeb-1a08-4134-bddc-5d08c927f9b6</webElementGuid>
+      <webElementGuid>fe608340-ad6c-4df8-a5d3-dbf96bd27029</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Safety &amp; Health Spanish Catalog cover</value>
+      <webElementGuid>adff6dc6-69de-43b3-9398-e85e47f54bd5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>250</value>
+      <webElementGuid>987ca0ca-9e59-481b-86e7-bdc388cbf68c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>250</value>
+      <webElementGuid>801dc266-81b7-49ec-8d84-e1b1a31f395d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wrapper&quot;)/div[1]/div[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-6 col-md-12 col-sm-12 col-xs-12&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-6 col-md-6 col-sm-6 col-xs-12 text-center&quot;]/article[1]/a[1]/img[@class=&quot;mainimg&quot;]</value>
+      <webElementGuid>02ddd1a8-8753-4411-bcb0-895e89435436</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='wrapper']/div/div/div[4]/div[2]/div/div[2]/article/a/img</value>
-      <webElementGuid>596b3590-d293-493d-aa74-a04e79009922</webElementGuid>
+      <webElementGuid>dfad70ec-b017-402b-a615-4e212f173a6d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:img</name>
       <type>Main</type>
       <value>//img[@alt='Safety &amp; Health Spanish Catalog cover']</value>
-      <webElementGuid>3d1f953e-2179-4771-80b8-bbf989416f6c</webElementGuid>
+      <webElementGuid>1fea4d6d-a8b0-4a7a-b966-07951b1619d1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/article/a/img</value>
-      <webElementGuid>231d0fd3-b2a8-46e7-a95f-a49e00e6f33c</webElementGuid>
+      <webElementGuid>b347aaa2-dc3b-40e8-8888-4fccf80a32cc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,38 +111,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@src = '/cedwebfiles/catalogs/2024/2024 SH Fall Catalog - Spanish - Thumbnail.jpg' and @alt = 'Safety &amp; Health Spanish Catalog cover']</value>
-      <webElementGuid>13f07a03-e7c0-499a-96fb-beac39a41587</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
-      <type>Main</type>
-      <value>//div[@id='main']/div/div/div[5]/div/figure/a/img</value>
-      <webElementGuid>d4b32b76-9f5f-4420-a8ae-664b0ba384e0</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:img</name>
-      <type>Main</type>
-      <value>//img[@alt='S&amp;H Spanish Catalog 2024 cover']</value>
-      <webElementGuid>11845203-662c-4b72-a3fa-33cd3bcffd92</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//div[5]/div/figure/a/img</value>
-      <webElementGuid>5d819d6c-b889-4cca-b83c-27ab174239ab</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//img[@src = '/cedwebfiles/catalogs/2024/2024 SH Fall Catalog - Spanish - Thumbnail.jpg' and @alt = 'S&amp;H Spanish Catalog 2024 cover']</value>
-      <webElementGuid>734ca3b5-c332-4ebc-b8bf-72fd1b1b2acb</webElementGuid>
+      <webElementGuid>45f132f7-b001-4472-8b0b-55653e57c81d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

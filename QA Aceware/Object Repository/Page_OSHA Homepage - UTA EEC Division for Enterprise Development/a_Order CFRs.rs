@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Order CFRs</name>
+   <tag></tag>
+   <elementGuidId>0c615b2f-d03d-49d8-ba53-a57b05b5311d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p:nth-of-type(9) > a.btn.btn-lg.btn-primary.btn-block</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='wrapper']/div/div/div[4]/div/article/p[9]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>522c6e37-35ac-4d1c-ad19-35bbdc37a069</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://dedtools.com/Shared/Safety%20and%20Health%20Webpages/Misc%20Forms/CFR-Order-Form_2022.pdf</value>
+      <webElementGuid>2ca71ee6-17f6-4c0f-a64d-32a97bcebe35</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-lg btn-primary btn-block</value>
+      <webElementGuid>5ef148be-fd1f-40a8-b298-8f2dd5a7bade</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>0f257293-296b-4569-ab0d-c70ed70aa4db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>1623257f-7520-4178-ae53-c77caaf693e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Order CFRs</value>
+      <webElementGuid>25b06b52-d056-4790-be5e-3a09010bae3d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Order CFRs</value>
+      <webElementGuid>6ea2dd58-03e1-4ea0-8703-aefc8a98e2eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wrapper&quot;)/div[1]/div[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-6 col-md-12 col-sm-12 col-xs-12&quot;]/article[@class=&quot;smArticles&quot;]/p[9]/a[@class=&quot;btn btn-lg btn-primary btn-block&quot;]</value>
+      <webElementGuid>5621f5f2-8d6e-4a00-a0f2-133f85f96ccc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wrapper']/div/div/div[4]/div/article/p[9]/a</value>
+      <webElementGuid>1f7c44a6-1794-4fc9-b779-d98e234a9e1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Order CFRs')]</value>
+      <webElementGuid>7d0a19c4-d755-4a4e-a6d9-58f34ae7b4f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Digital Badging'])[1]/following::a[1]</value>
+      <webElementGuid>5bcc7fb5-51c2-4419-9196-bff0f389f80a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Authorized S&amp;H Trainer Program'])[1]/following::a[2]</value>
+      <webElementGuid>abb8bc31-7815-4a78-b8ac-e14e752cd1a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='English'])[1]/preceding::a[2]</value>
+      <webElementGuid>324d9cfd-f8db-417a-90d5-17c2a7618fcd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Spanish'])[1]/preceding::a[4]</value>
+      <webElementGuid>dded62bd-0334-400d-bd61-bdae2c788359</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Order CFRs']/parent::*</value>
+      <webElementGuid>ac27b953-cb54-433b-bdd1-a2f2f7a8c6c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://dedtools.com/Shared/Safety%20and%20Health%20Webpages/Misc%20Forms/CFR-Order-Form_2022.pdf')]</value>
+      <webElementGuid>de8affc6-dea2-41e1-9122-7ebcf9ef3c54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[9]/a</value>
+      <webElementGuid>fd392f44-f244-43ba-bf50-36f4115c6a9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://dedtools.com/Shared/Safety%20and%20Health%20Webpages/Misc%20Forms/CFR-Order-Form_2022.pdf' and (text() = 'Order CFRs' or . = 'Order CFRs')]</value>
+      <webElementGuid>b5832c3e-5e4c-475a-8b04-86d1f7c624ee</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

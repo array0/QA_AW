@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description></description>
-   <name>ECC Catalogs Test Case</name>
+   <description>Test the different calalog links.</description>
+   <name>EEC Catalogs Test Case</name>
    <tag>catalogs</tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
