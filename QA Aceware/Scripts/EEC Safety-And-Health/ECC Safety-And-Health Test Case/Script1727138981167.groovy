@@ -19,50 +19,50 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('https://web-ded.uta.edu/wconnect/CourseStatus.awp1?&Course=oshhom')
 
-StatusResponse = WS.sendRequestAndVerify(findTestObject('Page_UTA EEC Home Page/200 Home page'))
+StatusResponse = WS.sendRequestAndVerify(findTestObject('Page_S-H Homepage - UTA EEC Division for Enterprise Development/200 S-H page'))
 
 WebUI.maximizeWindow()
 
-WebUI.verifyElementPresent(findTestObject('Page_OSHA Homepage - UTA EEC Division for Enterprise Development/img_English_mainimg'), 
+WebUI.verifyElementPresent(findTestObject('Page_S-H Homepage - UTA EEC Division for Enterprise Development/img_English_mainimg'), 
     0)
 
-WebUI.verifyElementPresent(findTestObject('Page_OSHA Homepage - UTA EEC Division for Enterprise Development/img_Order CFRs_mainimg'), 
+WebUI.verifyElementPresent(findTestObject('Page_S-H Homepage - UTA EEC Division for Enterprise Development/img_Order CFRs_mainimg'), 
     0)
 
-WebUI.verifyElementPresent(findTestObject('Page_OSHA Homepage - UTA EEC Division for Enterprise Development/a_Authorized SH Trainer Program'), 
+WebUI.verifyElementPresent(findTestObject('Page_S-H Homepage - UTA EEC Division for Enterprise Development/a_Authorized SH Trainer Program'), 
     0)
 
-WebUI.verifyElementPresent(findTestObject('Page_OSHA Homepage - UTA EEC Division for Enterprise Development/a_Click here'), 
+WebUI.verifyElementPresent(findTestObject('Page_S-H Homepage - UTA EEC Division for Enterprise Development/a_Click here'), 
     0)
 
-WebUI.verifyElementPresent(findTestObject('Page_OSHA Homepage - UTA EEC Division for Enterprise Development/a_Course Schedules'), 
+WebUI.verifyElementPresent(findTestObject('Page_S-H Homepage - UTA EEC Division for Enterprise Development/a_Course Schedules'), 
     0)
 
-WebUI.verifyElementPresent(findTestObject('Page_OSHA Homepage - UTA EEC Division for Enterprise Development/a_Digital Badging'), 
+WebUI.verifyElementPresent(findTestObject('Page_S-H Homepage - UTA EEC Division for Enterprise Development/a_Digital Badging'), 
     0)
 
-WebUI.verifyElementPresent(findTestObject('Page_OSHA Homepage - UTA EEC Division for Enterprise Development/a_EveningSaturday Classes'), 
+WebUI.verifyElementPresent(findTestObject('Page_S-H Homepage - UTA EEC Division for Enterprise Development/a_EveningSaturday Classes'), 
     0)
 
-WebUI.verifyElementPresent(findTestObject('Page_OSHA Homepage - UTA EEC Division for Enterprise Development/a_Free Training'), 
+WebUI.verifyElementPresent(findTestObject('Page_S-H Homepage - UTA EEC Division for Enterprise Development/a_Free Training'), 
     0)
 
-WebUI.verifyElementPresent(findTestObject('Page_OSHA Homepage - UTA EEC Division for Enterprise Development/a_Live Webcasts'), 
+WebUI.verifyElementPresent(findTestObject('Page_S-H Homepage - UTA EEC Division for Enterprise Development/a_Live Webcasts'), 
     0)
 
-WebUI.verifyElementPresent(findTestObject('Page_OSHA Homepage - UTA EEC Division for Enterprise Development/a_Online Training'), 
+WebUI.verifyElementPresent(findTestObject('Page_S-H Homepage - UTA EEC Division for Enterprise Development/a_Online Training'), 
     0)
 
-WebUI.verifyElementPresent(findTestObject('Page_OSHA Homepage - UTA EEC Division for Enterprise Development/a_Order CFRs'), 
+WebUI.verifyElementPresent(findTestObject('Page_S-H Homepage - UTA EEC Division for Enterprise Development/a_Order CFRs'), 
     0)
 
-WebUI.verifyElementPresent(findTestObject('Page_OSHA Homepage - UTA EEC Division for Enterprise Development/a_Spanish Classes'), 
+WebUI.verifyElementPresent(findTestObject('Page_S-H Homepage - UTA EEC Division for Enterprise Development/a_Spanish Classes'), 
     0)
 
-WebUI.verifyElementPresent(findTestObject('Page_OSHA Homepage - UTA EEC Division for Enterprise Development/h2_Sign up for Updates'), 
+WebUI.verifyElementPresent(findTestObject('Page_S-H Homepage - UTA EEC Division for Enterprise Development/h2_Sign up for Updates'), 
     0)
 
-WebUI.verifyElementPresent(findTestObject('Page_OSHA Homepage - UTA EEC Division for Enterprise Development/img_SH-Fundamentals-Logo'), 
+WebUI.verifyElementPresent(findTestObject('Page_S-H Homepage - UTA EEC Division for Enterprise Development/img_SH-Fundamentals-Logo'), 
     0)
 
 WebUI.closeBrowser()

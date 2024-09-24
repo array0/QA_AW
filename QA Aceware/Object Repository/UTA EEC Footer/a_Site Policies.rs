@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Site Policies</name>
+   <tag></tag>
+   <elementGuidId>c6aacd43-3a90-4a18-b154-5534afd13020</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a:nth-of-type(8)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='secondary_footer']/div[2]/div/p/a[8]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>4fa9913e-74c3-42f4-a17a-04e33d7eb260</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.uta.edu/site-policies</value>
+      <webElementGuid>4f481bc5-67d9-40ab-9fcf-26f805ec51da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>346612af-8cd5-4705-9cf3-eedeceea305b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Site Policies</value>
+      <webElementGuid>43cdd3a9-a8a6-4011-b624-ab307a9f9412</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Site Policies</value>
+      <webElementGuid>59fec408-a2e2-4641-8c97-600248dd274e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;secondary_footer&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;center&quot;]/p[@class=&quot;footerfont&quot;]/a[8]</value>
+      <webElementGuid>0ec0af9b-7608-4e2b-ae1f-8e7642bc962c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='secondary_footer']/div[2]/div/p/a[8]</value>
+      <webElementGuid>8630f907-fde6-4ed3-bca1-8b7f0785ff31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Site Policies')]</value>
+      <webElementGuid>50da5a0a-4fd6-4456-b729-56614b0cee17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Legal &amp; Privacy'])[1]/following::a[1]</value>
+      <webElementGuid>188a9c9a-3802-4db8-8565-d18868e32f54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CEDQUESTIONS@UTA.EDU'])[1]/following::a[3]</value>
+      <webElementGuid>038b04dd-559c-487e-ab48-cc9c3de93154</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='image'])[1]/preceding::a[2]</value>
+      <webElementGuid>c20a5fce-444d-496c-b699-227935e6a049</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Site Policies']/parent::*</value>
+      <webElementGuid>5aed4206-ac25-4c09-9c24-ad82ea358865</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.uta.edu/site-policies')]</value>
+      <webElementGuid>42a75d96-3114-4a6e-bc39-d2e7b567304e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[8]</value>
+      <webElementGuid>ec0e8648-3883-4d94-b346-cc9e2af32769</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.uta.edu/site-policies' and (text() = 'Site Policies' or . = 'Site Policies')]</value>
+      <webElementGuid>f27cbdbe-b67e-4f5c-af6f-e39cddfb18b2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

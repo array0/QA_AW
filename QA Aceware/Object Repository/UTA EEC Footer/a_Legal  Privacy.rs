@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Legal  Privacy</name>
+   <tag></tag>
+   <elementGuidId>87e13aa0-70af-429a-9872-ffa514455173</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a:nth-of-type(7)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='secondary_footer']/div[2]/div/p/a[7]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>989efb61-76e0-4189-8b24-ef6e6143fa43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.uta.edu/legalaffairs/notices/legal-and-privacy-notice.php</value>
+      <webElementGuid>360d99fd-1310-4c68-888b-49049242f9dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>22c3493f-86d8-44f5-9990-ed43ca19722f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Legal &amp; Privacy</value>
+      <webElementGuid>992300fa-a07a-4636-8c43-d81cb25aa1c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Legal &amp; Privacy</value>
+      <webElementGuid>b714409a-37ec-4bfb-a22b-c0d5b023d7bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;secondary_footer&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;center&quot;]/p[@class=&quot;footerfont&quot;]/a[7]</value>
+      <webElementGuid>39b32596-bec1-4bd0-b626-9d56c4b34bc4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='secondary_footer']/div[2]/div/p/a[7]</value>
+      <webElementGuid>2bb03710-d515-4b29-ae55-7fb8fec904ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Legal &amp; Privacy')]</value>
+      <webElementGuid>7bfd4680-e2d1-4880-8298-aaf87929d46b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CEDQUESTIONS@UTA.EDU'])[1]/following::a[2]</value>
+      <webElementGuid>d5f315b8-7ad5-4ef7-a9e7-2246909a24ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(817) 272-2556'])[1]/following::a[3]</value>
+      <webElementGuid>447b6a99-c3f1-4511-b3c3-e73c019aeb7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Site Policies'])[1]/preceding::a[1]</value>
+      <webElementGuid>e8f1ef73-b3aa-40c7-a094-484291b2ecb3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Legal &amp; Privacy']/parent::*</value>
+      <webElementGuid>e554c378-c04c-4a74-9047-5e9191c44e59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.uta.edu/legalaffairs/notices/legal-and-privacy-notice.php')]</value>
+      <webElementGuid>e164b4a7-b253-43c2-8384-eeb46eb9e7fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[7]</value>
+      <webElementGuid>6f9e7987-c290-4f95-b2bd-9f4c53ec80a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.uta.edu/legalaffairs/notices/legal-and-privacy-notice.php' and (text() = 'Legal &amp; Privacy' or . = 'Legal &amp; Privacy')]</value>
+      <webElementGuid>94b6d48e-644d-4a0b-8cd4-ca2ca65e80b0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

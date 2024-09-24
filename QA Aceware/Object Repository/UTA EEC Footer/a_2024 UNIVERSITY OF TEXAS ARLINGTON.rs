@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_2024 UNIVERSITY OF TEXAS ARLINGTON</name>
+   <tag></tag>
+   <elementGuidId>0423f7e5-d167-498c-9c04-4a78b65dd0c8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a:nth-of-type(9)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='secondary_footer']/div[2]/div/p/a[9]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>5a6fe25c-9c0e-4f79-b603-3b4809d5d7a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://uta.edu</value>
+      <webElementGuid>1c3a169a-9bfe-40cc-a255-7b20677c2f65</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+	© 2024 UNIVERSITY OF TEXAS ARLINGTON</value>
+      <webElementGuid>590d47d8-71f6-4acd-ae35-c374c9efe1ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;secondary_footer&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;center&quot;]/p[@class=&quot;footerfont&quot;]/a[9]</value>
+      <webElementGuid>2f22963a-5d6b-46a1-a5dd-f44200bde712</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='secondary_footer']/div[2]/div/p/a[9]</value>
+      <webElementGuid>c49784a7-9a3c-405f-b16c-0103fced2e1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Site Policies'])[1]/following::a[1]</value>
+      <webElementGuid>1cf7d2e9-f59c-43d4-a57d-02876e961b94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Legal &amp; Privacy'])[1]/following::a[2]</value>
+      <webElementGuid>56b1caa1-e40a-4b86-a518-ca48e2fd4b2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='image'])[1]/preceding::a[1]</value>
+      <webElementGuid>75f024c9-e33a-4478-9cb6-ad528ef3182c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='#d8d8d8'])[1]/preceding::a[1]</value>
+      <webElementGuid>6aa4eb4b-6af0-445c-b1d4-8df276acac36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='©']/parent::*</value>
+      <webElementGuid>53af350d-b4b3-4d32-8a37-73663cd04f00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://uta.edu')]</value>
+      <webElementGuid>4cc9eb72-2e42-4216-805a-dd331094c6fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[9]</value>
+      <webElementGuid>8bcf482f-9c17-4e7e-97fd-ce5720842f0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://uta.edu' and (text() = '
+	© 2024 UNIVERSITY OF TEXAS ARLINGTON' or . = '
+	© 2024 UNIVERSITY OF TEXAS ARLINGTON')]</value>
+      <webElementGuid>c45641cc-8a02-488b-8ec4-693b1e6529be</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
