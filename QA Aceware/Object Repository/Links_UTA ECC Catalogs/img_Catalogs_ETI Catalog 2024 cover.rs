@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>img_Download PDF_cat-img_1_2_3</name>
+   <name>img_Catalogs_ETI Catalog 2024 cover</name>
    <tag></tag>
-   <elementGuidId>e99e7aff-f18a-429b-bbbf-fae583290167</elementGuidId>
+   <elementGuidId>8cf2eb05-63e6-423d-81d9-49a9cf15f7fb</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//div[@id='main']/div/div/div[3]/div[3]/figure/a/img</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='main']/div/div/div[4]/div[2]/figure/a/img</value>
+         <key>CSS</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>c50f9567-748f-4cd2-9ab3-4c7e48b4e37f</webElementGuid>
+      <webElementGuid>31b6bb2b-afbe-4466-a1b5-3c9d4d551882</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,23 +30,23 @@
       <name>class</name>
       <type>Main</type>
       <value>cat-img</value>
-      <webElementGuid>8808fd33-88b6-462b-8f85-e017ecf466c6</webElementGuid>
+      <webElementGuid>3431be71-c095-4b58-a32c-e31b963610e0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>src</name>
       <type>Main</type>
-      <value>/cedwebfiles/catalogs/2023/PWI Catalog 2023_Cover.jpg</value>
-      <webElementGuid>46afc52f-b054-4f4a-93c4-20a7d580c447</webElementGuid>
+      <value>/cedwebfiles/catalogs/2024/ETI Fall 2024 Catalog - Web_Page_01.jpg</value>
+      <webElementGuid>6fdd20f7-3f39-452a-b767-020385ad648b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>alt</name>
       <type>Main</type>
-      <value>PWI Catalog cover</value>
-      <webElementGuid>59f3161b-8fc6-4d85-a2ea-6375f5405032</webElementGuid>
+      <value>ETI Catalog 2024 cover</value>
+      <webElementGuid>0ab5a5fe-7862-42e3-86e5-1641bacbe727</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +54,7 @@
       <name>width</name>
       <type>Main</type>
       <value>390px</value>
-      <webElementGuid>3f49a74e-8b69-414e-8359-87f1bb0be192</webElementGuid>
+      <webElementGuid>738e5bfd-d4c1-41ad-b4e3-cc6a8c4769ae</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +62,7 @@
       <name>height</name>
       <type>Main</type>
       <value>300px</value>
-      <webElementGuid>0cbf3352-b72d-4165-bfee-1e676f2aca27</webElementGuid>
+      <webElementGuid>5fa72c88-3617-4c0b-934e-e65fc476fd3d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,38 +70,38 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;main&quot;)/div[1]/div[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-12 col-md-4 col-lg-4 text-center&quot;]/figure[1]/a[1]/img[@class=&quot;cat-img&quot;]</value>
-      <webElementGuid>5e0a7567-2a4a-4cca-bfbc-296dd39891c4</webElementGuid>
+      <webElementGuid>bde79eeb-bf81-44b7-a161-ad0a1ab9802c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='main']/div/div/div[4]/div[2]/figure/a/img</value>
-      <webElementGuid>d97a886d-2e3b-45bf-a287-97976cac4cfb</webElementGuid>
+      <value>//div[@id='main']/div/div/div[3]/div[3]/figure/a/img</value>
+      <webElementGuid>8a3ef42d-112c-477d-9664-30aedd234a00</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:img</name>
       <type>Main</type>
-      <value>//img[@alt='PWI Catalog cover']</value>
-      <webElementGuid>7cbf35c8-574c-459f-82b4-e4753f98893e</webElementGuid>
+      <value>//img[@alt='ETI Catalog 2024 cover']</value>
+      <webElementGuid>fa2b60e8-d409-4b34-bee6-727d175db08b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[4]/div[2]/figure/a/img</value>
-      <webElementGuid>a0ea8f07-3e50-414c-9e27-4a01ab18ba36</webElementGuid>
+      <value>//div[3]/figure/a/img</value>
+      <webElementGuid>f3ad783c-1e8a-4e61-a48f-777703b7e19c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//img[@src = '/cedwebfiles/catalogs/2023/PWI Catalog 2023_Cover.jpg' and @alt = 'PWI Catalog cover']</value>
-      <webElementGuid>b43af6a9-c1f0-4569-aa58-0ea2c0a0ae28</webElementGuid>
+      <value>//img[@src = '/cedwebfiles/catalogs/2024/ETI Fall 2024 Catalog - Web_Page_01.jpg' and @alt = 'ETI Catalog 2024 cover']</value>
+      <webElementGuid>e408674d-26ef-4d68-a245-435a737bf9de</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

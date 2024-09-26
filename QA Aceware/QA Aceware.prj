@@ -30,6 +30,6 @@
          </systemFolderConfiguration>
       </systemFolderList>
    </sourceContent>
-   <timeStampInProperties>false</timeStampInProperties>
+   <timeStampInProperties>true</timeStampInProperties>
    <type>WEBUI</type>
 </Project>
