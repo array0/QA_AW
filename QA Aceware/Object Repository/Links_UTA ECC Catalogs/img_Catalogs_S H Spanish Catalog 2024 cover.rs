@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>img_Download PDF_cat-img_1_2_3_4</name>
+   <name>img_Catalogs_S H Spanish Catalog 2024 cover</name>
    <tag></tag>
-   <elementGuidId>9f224b73-570f-4446-b8f3-9568b3d5c7db</elementGuidId>
+   <elementGuidId>90dffa31-4779-42c3-a415-06ce7efd0db9</elementGuidId>
    <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main']/div/div/div[5]/div/figure/a/img</value>
+      </entry>
       <entry>
          <key>CSS</key>
          <value></value>
-      </entry>
-      <entry>
-         <key>XPATH</key>
-         <value>//div[@id='main']/div/div/div[4]/div[3]/figure/a/img</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,39 +23,31 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>32261ae3-ce2e-4ad0-acdc-ac9509d1e47e</webElementGuid>
+      <webElementGuid>5c764e08-97d7-4f95-b077-c9ff526eb84a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
       <value>cat-img</value>
-      <webElementGuid>4e55561e-af90-4a43-b961-9e80e21e9c95</webElementGuid>
+      <webElementGuid>4eb86ec3-cb37-486d-8d99-443d92466da7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>src</name>
       <type>Main</type>
-      <value>/cedwebfiles/catalogs/2024/HCI_2023.jpg</value>
-      <webElementGuid>9fc9c014-6434-4dbc-ac00-948567b1e74f</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>loading</name>
-      <type>Main</type>
-      <value>lazy</value>
-      <webElementGuid>9fc5c01b-eb68-4fd9-b5b3-bd8e172303c1</webElementGuid>
+      <value>/cedwebfiles/catalogs/2024/2024 SH Fall Catalog - Spanish - Thumbnail.jpg</value>
+      <webElementGuid>f04d82d3-0d32-4376-870f-e9cd9d057c24</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>alt</name>
       <type>Main</type>
-      <value>Health Careers Catalog thumbnail</value>
-      <webElementGuid>22181450-2ad5-48df-b23b-ba870bf00e3d</webElementGuid>
+      <value>S&amp;H Spanish Catalog 2024 cover</value>
+      <webElementGuid>6dccab38-7f54-4189-9b75-0a9d7f73b56c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +55,7 @@
       <name>width</name>
       <type>Main</type>
       <value>390px</value>
-      <webElementGuid>faaa318c-5d4d-4209-8c3b-8834e8be8e54</webElementGuid>
+      <webElementGuid>83fa3dcc-1eb0-4013-90e2-17e3ae6b5d04</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +63,7 @@
       <name>height</name>
       <type>Main</type>
       <value>300px</value>
-      <webElementGuid>d5e7676b-98eb-42f6-b4cf-d699eedb5e6d</webElementGuid>
+      <webElementGuid>651283cf-612e-4c79-baef-92a11b1c1b24</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -79,38 +71,38 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;main&quot;)/div[1]/div[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-12 col-md-4 col-lg-4 text-center&quot;]/figure[1]/a[1]/img[@class=&quot;cat-img&quot;]</value>
-      <webElementGuid>50beb551-74ce-4d8b-a2be-374fb8325af5</webElementGuid>
+      <webElementGuid>8082613c-d307-42d0-a707-08afc90ec0ce</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='main']/div/div/div[4]/div[3]/figure/a/img</value>
-      <webElementGuid>cda9b516-dd62-4303-9aa6-ad188a061653</webElementGuid>
+      <value>//div[@id='main']/div/div/div[5]/div/figure/a/img</value>
+      <webElementGuid>6896d958-fe65-4909-9adb-ee994707b970</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:img</name>
       <type>Main</type>
-      <value>//img[@alt='Health Careers Catalog thumbnail']</value>
-      <webElementGuid>c933ae59-841b-4a42-ae82-9e3427ebbe0a</webElementGuid>
+      <value>//img[@alt='S&amp;H Spanish Catalog 2024 cover']</value>
+      <webElementGuid>f11980a4-309b-4c01-86b1-0bde318fb23f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[4]/div[3]/figure/a/img</value>
-      <webElementGuid>2405df07-baeb-4edc-95df-f4bff830f6b6</webElementGuid>
+      <value>//div[5]/div/figure/a/img</value>
+      <webElementGuid>f2b00508-af35-4cdb-8bc0-bf758a4b6593</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//img[@src = '/cedwebfiles/catalogs/2024/HCI_2023.jpg' and @alt = 'Health Careers Catalog thumbnail']</value>
-      <webElementGuid>8ddd245b-06e3-43b5-b62f-8e672a57410c</webElementGuid>
+      <value>//img[@class = 'cat-img' and @src = '/cedwebfiles/catalogs/2024/2024 SH Fall Catalog - Spanish - Thumbnail.jpg' and @alt = 'S&amp;H Spanish Catalog 2024 cover']</value>
+      <webElementGuid>89fe7a80-555a-49d7-a213-fbabde14206b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

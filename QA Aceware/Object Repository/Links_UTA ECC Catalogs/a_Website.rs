@@ -6,12 +6,12 @@
    <elementGuidId>a7300f29-03d4-487d-b3aa-0d9ca22743d6</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>figcaption > a</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id='main']/div/div/div[3]/div/figure/figcaption/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>figcaption > a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>4f50bc37-8426-4241-8852-6423aeea12f3</webElementGuid>
+      <webElementGuid>b3e16b25-89e8-48b7-9e2c-187ef79ec7d8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/wconnect/CourseStatus.awp?&amp;Course=cedhom</value>
-      <webElementGuid>36cadfb3-6554-4a49-a3a2-1830b07dacd8</webElementGuid>
+      <webElementGuid>9cbc218b-25f7-4d9a-82a5-60a932fade7e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>aria-label</name>
       <type>Main</type>
       <value>Website</value>
-      <webElementGuid>8ac07641-09d7-4891-9bac-c2eeda4b2b64</webElementGuid>
+      <webElementGuid>b6156ccb-9082-4632-a3f3-2d2f598af126</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Website</value>
-      <webElementGuid>8edf4273-c47d-45e6-b02a-b1aef1735488</webElementGuid>
+      <webElementGuid>34d0e409-f829-4a7b-b8cd-da3063479f0a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;main&quot;)/div[1]/div[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-12 col-md-4 col-lg-4 text-center&quot;]/figure[1]/figcaption[1]/a[1]</value>
-      <webElementGuid>5251cc42-2147-45c7-993b-780085267001</webElementGuid>
+      <webElementGuid>6eb6a352-0f03-405a-a4f4-da61e4a12061</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='main']/div/div/div[3]/div/figure/figcaption/a</value>
-      <webElementGuid>ffc7a9da-4142-4405-9efe-8b739cb1ce77</webElementGuid>
+      <webElementGuid>f5e9397d-f9e7-4cef-b3f3-22d9a9c295ea</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Website')]</value>
-      <webElementGuid>ead9c695-b279-4b13-8bc8-7e62d4324447</webElementGuid>
+      <webElementGuid>b8d78988-6204-45fd-933e-5af91df472dc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Catalogs'])[1]/following::a[2]</value>
-      <webElementGuid>048ff3bf-625e-41a9-a7be-0e4bfa98b684</webElementGuid>
+      <webElementGuid>e9609a6e-4882-4e34-9e5c-536a866013b3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,15 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Download PDF'])[1]/preceding::a[1]</value>
-      <webElementGuid>496af2d8-494e-45ea-8c27-886bf4205fb5</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Website']/parent::*</value>
-      <webElementGuid>7a472112-2b5a-4ab2-a410-f335cfb85cf8</webElementGuid>
+      <webElementGuid>299890ce-515b-4ec7-80a4-79cafc9a78bb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +95,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, '/wconnect/CourseStatus.awp?&amp;Course=cedhom')])[5]</value>
-      <webElementGuid>54517aa2-ab45-4595-862a-01c6c2f1924e</webElementGuid>
+      <webElementGuid>48f91ad7-5791-40fa-8a95-a514a46d9c1f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +103,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//figcaption/a</value>
-      <webElementGuid>a79dc4fb-9395-4d0c-9ed8-70b246eb04a2</webElementGuid>
+      <webElementGuid>fb9acca5-e93f-48e4-bb1f-d748b441f120</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,6 +111,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '/wconnect/CourseStatus.awp?&amp;Course=cedhom' and (text() = 'Website' or . = 'Website')]</value>
-      <webElementGuid>e8d83272-c354-47d8-bdf7-d57f18a7b097</webElementGuid>
+      <webElementGuid>0e2c3418-5fd3-4626-a657-b7146157257c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -25,33 +25,31 @@ StatusResponse = WS.sendRequestAndVerify(findTestObject('Links_UTA ECC Catalogs/
 
 WebUI.maximizeWindow()
 
-WebUI.enhancedClick(findTestObject('Object Repository/Links_UTA ECC Catalogs/img_Catalogs_cat-img'))
+WebUI.enhancedClick(findTestObject('Object Repository/Links_UTA ECC Catalogs/img_Catalogs_CE Catalog Spring 2024 cover'))
 
 WebUI.navigateToUrl('https://web-ded.uta.edu/wconnect/ace/catalogs.aspx')
 
-WebUI.enhancedClick(findTestObject('Object Repository/Links_UTA ECC Catalogs/img_Download PDF_cat-img_1_2'))
+WebUI.enhancedClick(findTestObject('Object Repository/Links_UTA ECC Catalogs/img_Catalogs_ETI Catalog 2024 cover'))
 
 WebUI.navigateToUrl('https://web-ded.uta.edu/wconnect/ace/catalogs.aspx')
 
-WebUI.enhancedClick(findTestObject('Object Repository/Links_UTA ECC Catalogs/img_Download PDF_cat-img'))
+WebUI.enhancedClick(findTestObject('Object Repository/Links_UTA ECC Catalogs/img_Catalogs_Professional CE Catalog 2023 cover'))
 
 WebUI.navigateToUrl('https://web-ded.uta.edu/wconnect/ace/catalogs.aspx')
 
-WebUI.enhancedClick(findTestObject('Object Repository/Links_UTA ECC Catalogs/img_Download PDF_cat-img_1'))
+WebUI.enhancedClick(findTestObject('Links_UTA ECC Catalogs/img_Catalogs_S H Catalog 2024 Cover'))
 
 WebUI.navigateToUrl('https://web-ded.uta.edu/wconnect/ace/catalogs.aspx')
 
-WebUI.enhancedClick(findTestObject('Object Repository/Links_UTA ECC Catalogs/img_Download PDF_cat-img_1_2_3'))
+WebUI.enhancedClick(findTestObject('Object Repository/Links_UTA ECC Catalogs/img_Catalogs_PWI Catalog cover'))
 
 WebUI.navigateToUrl('https://web-ded.uta.edu/wconnect/ace/catalogs.aspx')
 
-WebUI.enhancedClick(findTestObject('Object Repository/Links_UTA ECC Catalogs/img_Download PDF_cat-img_1_2_3_4'))
+WebUI.enhancedClick(findTestObject('Object Repository/Links_UTA ECC Catalogs/img_Catalogs_Health Careers Catalog cover'))
 
 WebUI.navigateToUrl('https://web-ded.uta.edu/wconnect/ace/catalogs.aspx')
 
-WebUI.enhancedClick(findTestObject('Object Repository/Links_UTA ECC Catalogs/img_Download PDF_cat-img_1_2_3_4_5'))
-
-WebUI.navigateToUrl('https://web-ded.uta.edu/wconnect/ace/catalogs.aspx')
+WebUI.enhancedClick(findTestObject('Object Repository/Links_UTA ECC Catalogs/img_Catalogs_S H Spanish Catalog 2024 cover'))
 
 WebUI.navigateToUrl('https://web-ded.uta.edu/wconnect/ace/catalogs.aspx')
 

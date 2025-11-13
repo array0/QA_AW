@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>img_Catalogs_cat-img</name>
+   <name>img_Catalogs_Health Careers Catalog cover</name>
    <tag></tag>
-   <elementGuidId>d456a42e-6ef4-4434-81ee-05d29db6d85b</elementGuidId>
+   <elementGuidId>9f224b73-570f-4446-b8f3-9568b3d5c7db</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>img.cat-img</value>
+         <key>XPATH</key>
+         <value>//div[@id='main']/div/div/div[4]/div[3]/figure/a/img</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='main']/div/div/div[3]/div/figure/a/img</value>
+         <key>CSS</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>a754ba7b-d9b5-4e6d-b846-ff94090f2aef</webElementGuid>
+      <webElementGuid>32261ae3-ce2e-4ad0-acdc-ac9509d1e47e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,23 +30,31 @@
       <name>class</name>
       <type>Main</type>
       <value>cat-img</value>
-      <webElementGuid>ef8bdb53-5e07-4a65-832d-89948e3a20df</webElementGuid>
+      <webElementGuid>4e55561e-af90-4a43-b961-9e80e21e9c95</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>src</name>
       <type>Main</type>
-      <value>/cedwebfiles/catalogs/2024/Fall_CE Catalog 2024_Issuu_01.jpg</value>
-      <webElementGuid>9ae26316-3b64-44cc-ac5f-d505c6c7d329</webElementGuid>
+      <value>/cedwebfiles/catalogs/2024/HCI_2023.jpg</value>
+      <webElementGuid>9fc9c014-6434-4dbc-ac00-948567b1e74f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>loading</name>
+      <type>Main</type>
+      <value>lazy</value>
+      <webElementGuid>9fc5c01b-eb68-4fd9-b5b3-bd8e172303c1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>alt</name>
       <type>Main</type>
-      <value>CE Catalog Spring 2024 cover</value>
-      <webElementGuid>6e2404cb-634d-4ca8-b541-f63a4609b722</webElementGuid>
+      <value>Health Careers Catalog thumbnail</value>
+      <webElementGuid>22181450-2ad5-48df-b23b-ba870bf00e3d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +62,7 @@
       <name>width</name>
       <type>Main</type>
       <value>390px</value>
-      <webElementGuid>e6f72f03-43eb-4745-bcd3-b69ec9c7f9f0</webElementGuid>
+      <webElementGuid>faaa318c-5d4d-4209-8c3b-8834e8be8e54</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +70,7 @@
       <name>height</name>
       <type>Main</type>
       <value>300px</value>
-      <webElementGuid>cb644d28-f441-4a76-83f5-3e2d66f56eb3</webElementGuid>
+      <webElementGuid>d5e7676b-98eb-42f6-b4cf-d699eedb5e6d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,38 +78,38 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;main&quot;)/div[1]/div[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-12 col-md-4 col-lg-4 text-center&quot;]/figure[1]/a[1]/img[@class=&quot;cat-img&quot;]</value>
-      <webElementGuid>f36460e3-4485-473f-bdfd-d628c3026e8c</webElementGuid>
+      <webElementGuid>50beb551-74ce-4d8b-a2be-374fb8325af5</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='main']/div/div/div[3]/div/figure/a/img</value>
-      <webElementGuid>c1978230-0f28-402d-8e40-969302fd9b58</webElementGuid>
+      <value>//div[@id='main']/div/div/div[4]/div[3]/figure/a/img</value>
+      <webElementGuid>cda9b516-dd62-4303-9aa6-ad188a061653</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:img</name>
       <type>Main</type>
-      <value>//img[@alt='CE Catalog Spring 2024 cover']</value>
-      <webElementGuid>d6b4b8ed-28ec-4cf7-bb8e-2f7cf5f7c145</webElementGuid>
+      <value>//img[@alt='Health Careers Catalog thumbnail']</value>
+      <webElementGuid>c933ae59-841b-4a42-ae82-9e3427ebbe0a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//figure/a/img</value>
-      <webElementGuid>6fcbdb08-e432-40e7-bf58-d60cc8da0752</webElementGuid>
+      <value>//div[4]/div[3]/figure/a/img</value>
+      <webElementGuid>2405df07-baeb-4edc-95df-f4bff830f6b6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//img[@src = '/cedwebfiles/catalogs/2024/Fall_CE Catalog 2024_Issuu_01.jpg' and @alt = 'CE Catalog Spring 2024 cover']</value>
-      <webElementGuid>336c2b93-8a7c-4dd1-b67e-0698bdc2957e</webElementGuid>
+      <value>//img[@src = '/cedwebfiles/catalogs/2024/HCI_2023.jpg' and @alt = 'Health Careers Catalog thumbnail']</value>
+      <webElementGuid>8ddd245b-06e3-43b5-b62f-8e672a57410c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

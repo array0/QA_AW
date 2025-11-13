@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>img_Download PDF_cat-img</name>
+   <name>img_Catalogs_CE Catalog Spring 2024 cover</name>
    <tag></tag>
-   <elementGuidId>8cf2eb05-63e6-423d-81d9-49a9cf15f7fb</elementGuidId>
+   <elementGuidId>d456a42e-6ef4-4434-81ee-05d29db6d85b</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//div[@id='main']/div/div/div[3]/div/figure/a/img</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='main']/div/div/div[3]/div[3]/figure/a/img</value>
+         <key>CSS</key>
+         <value>img.cat-img</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>31b6bb2b-afbe-4466-a1b5-3c9d4d551882</webElementGuid>
+      <webElementGuid>a754ba7b-d9b5-4e6d-b846-ff94090f2aef</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,23 +31,23 @@
       <name>class</name>
       <type>Main</type>
       <value>cat-img</value>
-      <webElementGuid>3431be71-c095-4b58-a32c-e31b963610e0</webElementGuid>
+      <webElementGuid>ef8bdb53-5e07-4a65-832d-89948e3a20df</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>src</name>
       <type>Main</type>
-      <value>/cedwebfiles/catalogs/2024/ETI Fall 2024 Catalog - Web_Page_01.jpg</value>
-      <webElementGuid>6fdd20f7-3f39-452a-b767-020385ad648b</webElementGuid>
+      <value>/cedwebfiles/catalogs/2024/Fall_CE Catalog 2024_Issuu_01.jpg</value>
+      <webElementGuid>9ae26316-3b64-44cc-ac5f-d505c6c7d329</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>alt</name>
       <type>Main</type>
-      <value>ETI Catalog 2024 cover</value>
-      <webElementGuid>0ab5a5fe-7862-42e3-86e5-1641bacbe727</webElementGuid>
+      <value>CE Catalog Spring 2024 cover</value>
+      <webElementGuid>6e2404cb-634d-4ca8-b541-f63a4609b722</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>width</name>
       <type>Main</type>
       <value>390px</value>
-      <webElementGuid>738e5bfd-d4c1-41ad-b4e3-cc6a8c4769ae</webElementGuid>
+      <webElementGuid>e6f72f03-43eb-4745-bcd3-b69ec9c7f9f0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>height</name>
       <type>Main</type>
       <value>300px</value>
-      <webElementGuid>5fa72c88-3617-4c0b-934e-e65fc476fd3d</webElementGuid>
+      <webElementGuid>cb644d28-f441-4a76-83f5-3e2d66f56eb3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,38 +71,38 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;main&quot;)/div[1]/div[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-12 col-md-4 col-lg-4 text-center&quot;]/figure[1]/a[1]/img[@class=&quot;cat-img&quot;]</value>
-      <webElementGuid>bde79eeb-bf81-44b7-a161-ad0a1ab9802c</webElementGuid>
+      <webElementGuid>f36460e3-4485-473f-bdfd-d628c3026e8c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='main']/div/div/div[3]/div[3]/figure/a/img</value>
-      <webElementGuid>8a3ef42d-112c-477d-9664-30aedd234a00</webElementGuid>
+      <value>//div[@id='main']/div/div/div[3]/div/figure/a/img</value>
+      <webElementGuid>c1978230-0f28-402d-8e40-969302fd9b58</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:img</name>
       <type>Main</type>
-      <value>//img[@alt='ETI Catalog 2024 cover']</value>
-      <webElementGuid>fa2b60e8-d409-4b34-bee6-727d175db08b</webElementGuid>
+      <value>//img[@alt='CE Catalog Spring 2024 cover']</value>
+      <webElementGuid>d6b4b8ed-28ec-4cf7-bb8e-2f7cf5f7c145</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[3]/figure/a/img</value>
-      <webElementGuid>f3ad783c-1e8a-4e61-a48f-777703b7e19c</webElementGuid>
+      <value>//figure/a/img</value>
+      <webElementGuid>6fcbdb08-e432-40e7-bf58-d60cc8da0752</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//img[@src = '/cedwebfiles/catalogs/2024/ETI Fall 2024 Catalog - Web_Page_01.jpg' and @alt = 'ETI Catalog 2024 cover']</value>
-      <webElementGuid>e408674d-26ef-4d68-a245-435a737bf9de</webElementGuid>
+      <value>//img[@src = '/cedwebfiles/catalogs/2024/Fall_CE Catalog 2024_Issuu_01.jpg' and @alt = 'CE Catalog Spring 2024 cover']</value>
+      <webElementGuid>336c2b93-8a7c-4dd1-b67e-0698bdc2957e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

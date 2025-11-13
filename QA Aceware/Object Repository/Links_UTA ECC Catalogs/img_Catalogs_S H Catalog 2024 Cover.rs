@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>img_Download PDF_cat-img_1</name>
+   <name>img_Catalogs_S H Catalog 2024 Cover</name>
    <tag></tag>
-   <elementGuidId>33d183ab-7136-4515-9b1a-ac20ae4c9c7f</elementGuidId>
+   <elementGuidId>b168eba2-070a-4b40-afda-d61bcbd1271c</elementGuidId>
    <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main']/div/div/div[3]/div[2]/figure/a/img</value>
+      </entry>
       <entry>
          <key>CSS</key>
          <value></value>
-      </entry>
-      <entry>
-         <key>XPATH</key>
-         <value>//div[@id='main']/div/div/div[4]/div/figure/a/img</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,31 +23,31 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>04d51025-c8b6-4c3a-8caa-46045f41c930</webElementGuid>
+      <webElementGuid>01ce9489-f5d3-4d7e-bf2a-10a32f362988</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
       <value>cat-img</value>
-      <webElementGuid>8627c909-0d6c-481b-8f4e-d9f29480ddc0</webElementGuid>
+      <webElementGuid>aa3bb354-d35e-4726-a31a-c1a4a11811f8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>src</name>
       <type>Main</type>
-      <value>/cedwebfiles/catalogs/2023/CE_Professional_Development_Catalog 2023.jpg</value>
-      <webElementGuid>092b8bf2-e215-49c1-8775-8d14694dfd5b</webElementGuid>
+      <value>/cedwebfiles/catalogs/2024/2024 SH Fall Catalog_Thumnail.jpg</value>
+      <webElementGuid>351eee78-6afe-45fc-86ce-b4c1e58f0172</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>alt</name>
       <type>Main</type>
-      <value>Professional CE Catalog 2023 cover</value>
-      <webElementGuid>2c31772b-54b5-4678-95ca-df64c8c15bbd</webElementGuid>
+      <value>Safety &amp; Health Catalog 2024 Cover</value>
+      <webElementGuid>c4234ed7-b90c-4436-9faa-c62b6d902954</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>width</name>
       <type>Main</type>
       <value>390px</value>
-      <webElementGuid>b07c8982-c928-45ac-b3c6-06b330438d40</webElementGuid>
+      <webElementGuid>0863901c-642f-4840-a584-e2da9a5aef0e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>height</name>
       <type>Main</type>
       <value>300px</value>
-      <webElementGuid>7569f64a-29d2-474f-b4e9-0a5f62b5df0c</webElementGuid>
+      <webElementGuid>294d8321-1e9b-455d-8d37-7079283745f0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,38 +71,38 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;main&quot;)/div[1]/div[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-12 col-md-4 col-lg-4 text-center&quot;]/figure[1]/a[1]/img[@class=&quot;cat-img&quot;]</value>
-      <webElementGuid>cac70f8e-b04b-40dc-a20d-cfa9b4abec62</webElementGuid>
+      <webElementGuid>da25b42f-f248-46ff-8d3c-95eda9387d54</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='main']/div/div/div[4]/div/figure/a/img</value>
-      <webElementGuid>dbc46591-0755-4b4f-8752-64dafc515d9d</webElementGuid>
+      <value>//div[@id='main']/div/div/div[3]/div[2]/figure/a/img</value>
+      <webElementGuid>30d3800e-526e-4dd4-b291-b82701dcc65e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:img</name>
       <type>Main</type>
-      <value>//img[@alt='Professional CE Catalog 2023 cover']</value>
-      <webElementGuid>bea73dfb-1ed7-4f88-8d84-ca182671def6</webElementGuid>
+      <value>//img[@alt='Safety &amp; Health Catalog 2024 Cover']</value>
+      <webElementGuid>baae1db9-1b19-4b30-b2b6-ae7c4b207912</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[4]/div/figure/a/img</value>
-      <webElementGuid>ad448b07-57fd-4a38-b7b3-fb6c934b71e0</webElementGuid>
+      <value>//div[2]/figure/a/img</value>
+      <webElementGuid>a6f7a8d0-d8ff-405f-93a3-be1f4862d6b3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//img[@src = '/cedwebfiles/catalogs/2023/CE_Professional_Development_Catalog 2023.jpg' and @alt = 'Professional CE Catalog 2023 cover']</value>
-      <webElementGuid>02a2f242-6a4b-4c8d-8229-7eebce95f4d9</webElementGuid>
+      <value>//img[@class = 'cat-img' and @src = '/cedwebfiles/catalogs/2024/2024 SH Fall Catalog_Thumnail.jpg' and @alt = 'Safety &amp; Health Catalog 2024 Cover']</value>
+      <webElementGuid>d5725e41-a1e7-40ed-b79a-c66bcc970dfb</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
